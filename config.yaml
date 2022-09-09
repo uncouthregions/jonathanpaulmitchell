@@ -1,0 +1,121 @@
+baseURL: "http://jonathanpaulmitchell.com/"
+title: Jonathan Paul Mitchell
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Jonathan Paul Mitchell
+  description: "The Website of Jonathan Paul Mitchell"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Jonathan Paul Mitchell
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Dr Jonathan Paul Mitchell"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Welcome to my website."
+    Content: - I’m a recently minted doctor of philosophy. I was an Irish Research Council Government of Ireland Postgraduate Scholar in the University College Dublin School of Philosophy. 
+	- My research falls within the tradition of critical disability studies, and also draws upon feminist philosophy, twentieth-century continental philosophy, philosophy of biology, and philosophy of technology. It examines the relationship between disability and the human, and the role played by disability in practices that stabilise ideas of what is properly or essentially human. As it stands, this website is simply a place where I will share some unpolished drafts from conference and workshop presentations.
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/UncouthRegions"
+    - name: email
+      url: "mailto:hello@jonathanpaulmitchell.com"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+ # editPost:
+  #  URL: "https://github.com/<path_to_repo>/content"
+   # Text: "Suggest Changes" # edit text
+   # appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+  - identifier: cv
+    name: Curriculum Vitae
+    url: /cv/
+    weight: 10
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai

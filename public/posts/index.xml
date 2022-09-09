@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Dr Jonathan Paul Mitchell</title>
+    <title>Posts on Jonathan Paul Mitchell</title>
     <link>http://jonathanpaulmitchell.com/posts/</link>
-    <description>Recent content in Posts on Dr Jonathan Paul Mitchell</description>
+    <description>Recent content in Posts on Jonathan Paul Mitchell</description>
+    <image>
+      <url>http://jonathanpaulmitchell.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://jonathanpaulmitchell.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Fri, 09 Sep 2022 12:15:38 +0100</lastBuildDate><atom:link href="http://jonathanpaulmitchell.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome to My Website</title>
-      <link>http://jonathanpaulmitchell.com/posts/welcome-to-my-website/</link>
-      <pubDate>Fri, 09 Sep 2022 12:15:38 +0100</pubDate>
-      
-      <guid>http://jonathanpaulmitchell.com/posts/welcome-to-my-website/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 23 May 2018 12:25:28 +0100</lastBuildDate><atom:link href="http://jonathanpaulmitchell.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Repealing the 8th Amendment need not erode disability rights</title>
       <link>http://jonathanpaulmitchell.com/posts/8th-amendment-disability-rights/</link>

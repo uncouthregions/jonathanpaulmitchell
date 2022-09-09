@@ -3,33 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://jonathanpaulmitchell.com/</loc>
-    <lastmod>2022-09-09T12:15:38+01:00</lastmod>
+    <lastmod>2018-05-23T12:25:28+01:00</lastmod>
   </url><url>
     <loc>http://jonathanpaulmitchell.com/posts/</loc>
-    <lastmod>2022-09-09T12:15:38+01:00</lastmod>
+    <lastmod>2018-05-23T12:25:28+01:00</lastmod>
   </url><url>
-    <loc>http://jonathanpaulmitchell.com/posts/welcome-to-my-website/</loc>
-    <lastmod>2022-09-09T12:15:38+01:00</lastmod>
+    <loc>http://jonathanpaulmitchell.com/post/</loc>
+    <lastmod>2018-05-23T12:25:28+01:00</lastmod>
+  </url><url>
+    <loc>http://jonathanpaulmitchell.com/post/8th-amendment-disability-rights/</loc>
+    <lastmod>2018-05-23T12:25:28+01:00</lastmod>
   </url><url>
     <loc>http://jonathanpaulmitchell.com/posts/8th-amendment-disability-rights/</loc>
     <lastmod>2018-05-23T12:25:28+01:00</lastmod>
   </url><url>
-    <loc>http://jonathanpaulmitchell.com/cv/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://jonathanpaulmitchell.com/home/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://jonathanpaulmitchell.com/pages/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://jonathanpaulmitchell.com/pages/cv/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://jonathanpaulmitchell.com/pages/home/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>http://jonathanpaulmitchell.com/categories/</loc>
+  </url><url>
+    <loc>http://jonathanpaulmitchell.com/cv/</loc>
   </url><url>
     <loc>http://jonathanpaulmitchell.com/tags/</loc>
   </url>
