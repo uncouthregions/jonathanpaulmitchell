@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://jonathanpaulmitchell.com'
 languageCode = 'en-gb'
 title = 'Dr Jonathan Paul Mitchell'
-theme = "ghostwriter"
+theme = "ananke"
