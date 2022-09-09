@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dr Jonathan Paul Mitchell</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Dr Jonathan Paul Mitchell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 09 Sep 2022 12:15:38 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Website</title>
+      <link>http://example.org/posts/welcome-to-my-website/</link>
+      <pubDate>Fri, 09 Sep 2022 12:15:38 +0100</pubDate>
+      
+      <guid>http://example.org/posts/welcome-to-my-website/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
