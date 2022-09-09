@@ -29,7 +29,6 @@ jonathan.mitchell@ucdconnect.ie
 ## Forthcoming Activities
 | Activity                                                                                                              |          Year |
 | --------------------------------------------------------------------------------------------------------------------- | -------------:|
-| Co-organiser: Conference on phenomenological approaches to disability and technology University of Exeter. Dates TBA. | **2022-2023** |
 | Invited speaker: Workshop on philosophy of disability University College Dublin. Date TBA.                            |      **2022** |
 
 ## Conference & Workshop Presentations
@@ -89,6 +88,7 @@ jonathan.mitchell@ucdconnect.ie
 ## Other Academic Experience
 | Activity                                                                                                                                                    |          Year |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------:|
+| Co-organiser: Imaginining Technologies for Disability Futures project panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter | **2022** |
 | Co-editor: special issue of Women, Gender & Research, ‘Interrogating Disability and Prostheses’.                                                            | **2019–2021** |
 | Conference assistant: The Inhuman Gaze, Centre Culturel Irlandais, Paris.                                                                                   |      **2018** |
 | Peer reviewer: Hypatia.                                                                                                                                     |      **2016** |
