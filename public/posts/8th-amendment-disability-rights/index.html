@@ -23,6 +23,10 @@
 
 
 
+
+
+
+
 <html
   class="not-ready text-sm lg:text-base"
   style="--bg: #faf6f1"
@@ -53,15 +57,11 @@ First, the Love Both campaign website notes that government proposals contain no
   <link rel="preload stylesheet" as="style" href="http://jonathanpaulmitchell.com/main.min.css" />
 
   
-  <script
-    defer
-    src="http://jonathanpaulmitchell.com/highlight.min.js"
-    onload="hljs.initHighlightingOnLoad();"
-  ></script>
-  
 
   
   
+  
+    
   
   <link
     rel="preload"
@@ -74,6 +74,10 @@ First, the Love Both campaign website notes that government proposals contain no
   
   
 
+  
+  <link rel="preload" as="image" href="http://jonathanpaulmitchell.com/twitter.svg" />
+  
+  <link rel="preload" as="image" href="http://jonathanpaulmitchell.com/rss.svg" />
   
 
   
@@ -128,7 +132,7 @@ First, the Love Both campaign website notes that government proposals contain no
       >Dr Jonathan Paul Mitchell</a
     >
     <a
-      class="btn-dark ml-6 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      class="btn-dark ml-6 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.svg)_left_center/cover_no-repeat] dark:invert dark:[background-position:right]"
     ></a>
   </div>
 
@@ -182,6 +186,26 @@ First, the Love Both campaign website notes that government proposals contain no
     
     
 
+    
+    <nav
+      class="mt-12 flex justify-center space-x-10 dark:invert lg:mt-0 lg:ml-12 lg:items-center lg:space-x-6"
+    >
+      
+      <a
+        class="h-8 w-8 [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./twitter.svg)"
+        href=" https://twitter.com/UncouthRegions "
+        target="_blank"
+      ></a>
+      
+      <a
+        class="h-8 w-8 [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./rss.svg)"
+        href=" http://jonathanpaulmitchell.com/index.xml "
+        target="_blank"
+      ></a>
+      
+    </nav>
     
   </div>
 </header>
