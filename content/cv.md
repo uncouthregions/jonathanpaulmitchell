@@ -3,9 +3,6 @@ title: Curriculum Vitae
 description: Updated September 2022
 ---
 
-# Dr Jonathan Paul Mitchell
-jonathan.mitchell@ucdconnect.ie
-
 ## Education
 | Degree                                                                             |          Year |
 |:---------------------------------------------------------------------------------- | -----------------:|
@@ -21,6 +18,7 @@ jonathan.mitchell@ucdconnect.ie
 ## Publications
 | Publication                                                                                                                                                                                                                                                      |     Year |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------:|
+| Chapter co-authored with Luna Dolezal and Cat Fisher on 'Disability' in collection *Political Phenomenology* (forthcoming) | **2023** |
 | Co-editor with Käll, Lise Folkmarson & Tobias Skiveren. “Editors' Introduction: Disability and Protheses”. *Women, Gender & Research* 31, no. 2 (2021): 5-9.                                                                                                     | **2021** |
 | Mitchell, Jonathan Paul. “Unsafe Ground: Technology, Habit, and the Enactment of Disability”. *Women, Gender & Research* 31, no. 2 (2021): 24–39.                                                                                                                | **2021** |
 | Mitchell, Jonathan Paul. “Disability and the Inhuman”, in *Perception and the Inhuman Gaze: Perspectives from Philosophy, Phenomenology and the Sciences*, edited by Anya Daly, James Jardine, Fred Cummins, and Dermot Moran, 298-307. London: Routledge, 2020. | **2020** |
@@ -29,7 +27,8 @@ jonathan.mitchell@ucdconnect.ie
 ## Forthcoming Activities
 | Activity                                                                                                              |          Year |
 | --------------------------------------------------------------------------------------------------------------------- | -------------:|
-| Invited speaker: Workshop on philosophy of disability University College Dublin. Date TBA.                            |      **2022** |
+| Paper presentation at annual conference of the *International Merleau-Ponty Circle*. | **2022** |
+| Invited speaker: Workshop on philosophy of disability, University College Dublin. Date TBA.                            |      **2022** |
 
 ## Conference & Workshop Presentations
 | Title & Event                                                                                                                |     Year |
@@ -88,14 +87,14 @@ jonathan.mitchell@ucdconnect.ie
 ## Other Academic Experience
 | Activity                                                                                                                                                    |          Year |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------:|
-| Co-organiser: Imaginining Technologies for Disability Futures project panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter | **2022** |
-| Co-editor: special issue of Women, Gender & Research, ‘Interrogating Disability and Prostheses’.                                                            | **2019–2021** |
-| Conference assistant: The Inhuman Gaze, Centre Culturel Irlandais, Paris.                                                                                   |      **2018** |
-| Peer reviewer: Hypatia.                                                                                                                                     |      **2016** |
-| Peer reviewer: Somatechnics.                                                                                                                                |      **2014** |
-| Conference assistant: The Future of the Body, Long Room Hub, Trinity College, Dublin.                                                                       |      **2014** |
-| Alumnus judge: 2013 Undergraduate Awards.                                                                                                                   |      **2013** |
-| Indexer: Giffney, N. & Shildrick, M. (eds), Theory on the Edge: Irish Studies and the Politics of Sexual Difference. Basingstoke: Palgrave Macmillan, 2013. |      **2013** |
+| Co-organiser: *Imaginining Technologies for Disability Futures* panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter | **2022** |
+| Co-editor: special issue of *Women, Gender & Research*, ‘Interrogating Disability and Prostheses’.                                                            | **2019–2021** |
+| Conference assistant: *The Inhuman Gaze*, Centre Culturel Irlandais, Paris.                                                                                   |      **2018** |
+| Peer reviewer: *Hypatia*.                                                                                                                                     |      **2016** |
+| Peer reviewer: *Somatechnics*.                                                                                                                                |      **2014** |
+| Conference assistant: *The Future of the Body*, Long Room Hub, Trinity College, Dublin.                                                                       |      **2014** |
+| Alumnus judge: 2013 *Undergraduate Awards*.                                                                                                                   |      **2013** |
+| Indexer: Giffney, N. & Shildrick, M. (eds), *Theory on the Edge: Irish Studies and the Politics of Sexual Difference*. Basingstoke: Palgrave Macmillan, 2013. |      **2013** |
 
 ## Languages
 |  |  |
