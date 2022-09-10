@@ -58,7 +58,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Welcome to my website.
-    subtitle: "I’m a doctor of philosophy, and work as a philosopher and critical disability theorist. You can find out more about me and my work by tapping ['About Me'](/about). You can read some conference papers and works in progress by tapping ['Updates'](/post/)."
+    subtitle: "I’m a doctor of philosophy, and work as a philosopher and critical disability theorist. You can find out more by tapping ['About Me'](/about). You can read some conference papers and works in progress by tapping ['Updates'](/post/)."
     imageUrl: "/images/jpm-image.jpg"
     imageWidth: 120
     imageHeight: 120
