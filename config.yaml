@@ -57,18 +57,18 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Dr Jonathan Paul Mitchell
-    subtitle: "Welcome to my website. I’m a doctor of philosophy, and work as a philosopher and critical disability theorist. You can read more about me and my work by tapping 'About Me'. As it stands, this website is simply a place where I will share some unpolished drafts from conference and workshop presentations"
-    imageUrl: "https://www.jonathanpaulmitchell.com/static/jpm-image.jpg"
+    title: Welcome to my website.
+    subtitle: "I’m a doctor of philosophy, and work as a philosopher and critical disability theorist. You can read more about me and my work by tapping 'About Me'. As it stands, this website is simply a place where I will share some unpolished drafts from conference and workshop presentations"
+    imageUrl: "/images/jpm-image.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Posts
+      - name: Updates
         url: post
       - name: About Me
         url: about
-      - name: Curriculum Vitae
+      - name: C.V.
         url: cv
 
   # home-info mode
