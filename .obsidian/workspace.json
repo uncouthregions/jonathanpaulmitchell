@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/8th-amendment-disability-rights.md",
+                "file": "content/post/expression-structure-of-behavior.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/8th-amendment-disability-rights.md",
+                "file": "content/post/expression-structure-of-behavior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/8th-amendment-disability-rights.md",
+                "file": "content/post/expression-structure-of-behavior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/8th-amendment-disability-rights.md"
+                "file": "content/post/expression-structure-of-behavior.md"
               }
             }
           },
@@ -144,6 +144,7 @@
   },
   "active": "1c64810fe7b87705",
   "lastOpenFiles": [
+    "content/post/8th-amendment-disability-rights.md",
     "content/post/_index.md",
     "content/homepage/work.md",
     "content/homepage/index.md",
@@ -152,7 +153,6 @@
     "static/jpm-image.jpg",
     "static/jpmitchell-disability-and-the-inhuman.pdf",
     "content/post/normative-limits.md",
-    "content/post/expression-structure-of-behavior.md",
-    "content/post/disability-inhuman.md"
+    "content/post/expression-structure-of-behavior.md"
   ]
 }
