@@ -1,4 +1,4 @@
-baseURL: "http://jonathanpaulmitchell.com/"
+baseURL: "https://jonathanpaulmitchell.com/"
 title: Jonathan Paul Mitchell
 paginate: 5
 theme: PaperMod
@@ -16,7 +16,7 @@ params:
 #  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Jonathan Paul Mitchell
   description: "The Website of Dr Jonathan Paul Mitchell"
-  keywords: [Blog, Portfolio, Philosophy]
+  keywords: [Blog, Homepage, Philosophy]
   author: Jonathan Paul Mitchell
   # author: ["Me", "You"] # multiple authors
 #  images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -86,7 +86,7 @@ params:
       url: "mailto:hello@jonathanpaulmitchell.com"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
+    hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
