@@ -7,7 +7,7 @@ description: Updated September 2022
 | Degree                                                                             |          Year |
 |:---------------------------------------------------------------------------------- | -----------------:|
 | *University College Dublin*                                                        |               |
-| **PhD in Philosophy (passed with no corrections)**                                 | **2013–2021** |
+| **PhD in Philosophy (awarded with minor typographical corrections)**               | **2013–2021** |
 | Thesis: “Distributing Disability: Embodied Difference, Technology, and the Human”. |               |
 | **MA in Philosophy (First Class)**                                                 | **2011–2012** |
 | Thesis: “Rebellious Matter: Towards an Ontology of Embodied Difference”.           |               |
