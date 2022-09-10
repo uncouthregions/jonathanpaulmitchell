@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "5f7503ebb88271ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e987042e1955caf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c64810fe7b87705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archetypes/default.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aea7ff67550754be",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bfcafff4c1963d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea4d9d750f231de0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "82c6f463123aede2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9a92f28cb65209b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24d3a6117e68c21c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f37aca5230b88ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14b541e691d0dd8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "archetypes/default.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b743c233996456e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "archetypes/default.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a50b6c465dd38f36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a571db7f810d7ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "archetypes/default.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a50b6c465dd38f36",
+  "lastOpenFiles": [
+    "static/jpm-image.jpg",
+    "static/jpmitchell-disability-and-the-inhuman.pdf",
+    "content/post/normative-limits.md",
+    "content/post/expression-structure-of-behavior.md",
+    "content/post/disability-inhuman.md",
+    "content/post/disability-technology-time.md",
+    "content/post/disability-personhood-vulnerability.md",
+    "content/post/8th-amendment-disability-rights.md"
+  ]
+}
