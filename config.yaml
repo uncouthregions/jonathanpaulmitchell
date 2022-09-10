@@ -8,20 +8,18 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+#  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Jonathan Paul Mitchell
-  description: "The Website of Jonathan Paul Mitchell"
-  keywords: [Blog, Portfolio, PaperMod]
+  description: "The Website of Dr Jonathan Paul Mitchell"
+  keywords: [Blog, Portfolio, Philosophy]
   author: Jonathan Paul Mitchell
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+#  images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
