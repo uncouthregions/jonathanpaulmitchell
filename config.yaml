@@ -1,5 +1,5 @@
 baseURL: "https://jonathanpaulmitchell.com/"
-title: Jonathan Paul Mitchell
+title: Dr Jonathan Paul Mitchell
 paginate: 5
 theme: PaperMod
 
@@ -14,7 +14,7 @@ minify:
 
 params:
 #  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Jonathan Paul Mitchell
+  title: Dr Jonathan Paul Mitchell
   description: "The Website of Dr Jonathan Paul Mitchell"
   keywords: [Blog, Homepage, Philosophy]
   author: Jonathan Paul Mitchell
