@@ -2,7 +2,7 @@
 title = "Contact"
 description = "Some ways to get in touch."
 date = "2022-09-10"
-aliases = [""contact"]
+aliases = ["contact"]
 author = "Jonathan Paul Mitchell"
 +++
 
