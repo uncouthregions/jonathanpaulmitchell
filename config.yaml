@@ -16,7 +16,7 @@ params:
 #  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dr Jonathan Paul Mitchell
   description: "The Website of Dr Jonathan Paul Mitchell"
-  keywords: [Blog, Homepage, Philosophy]
+  keywords: [Blog, Homepage, Philosophy, Disability]
   author: Jonathan Paul Mitchell
   # author: ["Me", "You"] # multiple authors
 #  images: ["<link or path of image for opengraph, twitter-cards>"]
