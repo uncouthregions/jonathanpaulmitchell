@@ -106,7 +106,7 @@ description: Updated September 2022
 |  |  |
 |-------------------------------|----------|
 | Minorities and Philosophy (UCD Chapter) | |
-| Society for Philosophy and Disability   |   |
+| <a href="http://societyforphilosophyanddisability.org/" >Society for Philosophy and Disability</a>   |   |
 | British Society for Phenomenology   |   |
 | Disabled Academic's Collective | |
 
