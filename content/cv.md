@@ -105,10 +105,10 @@ description: Updated September 2022
 ## Memberships
 |  |  |
 |-------------------------------|----------|
-| Minorities and Philosophy (UCD Chapter) | |
-| <a href="http://societyforphilosophyanddisability.org/" >Society for Philosophy and Disability</a>   |   |
-| British Society for Phenomenology   |   |
-| Disabled Academic's Collective | |
+| <a href="https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/">Minorities and Philosophy (UCD Chapter)</a> | |
+| <a href="http://societyforphilosophyanddisability.org/">Society for Philosophy and Disability</a>   |   |
+| <a href="https://www.britishphenomenology.org.uk/">British Society for Phenomenology</a>   |   |
+| <a href="https://disabledacademicco.wixsite.com/mysite">Disabled Academic Collective</a> | |
 
 ## Related Experience
 | Role                                            |          Year |
