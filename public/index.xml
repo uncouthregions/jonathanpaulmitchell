@@ -4,10 +4,6 @@
     <title>Jonathan Paul Mitchell</title>
     <link>http://jonathanpaulmitchell.com/</link>
     <description>Recent content on Jonathan Paul Mitchell</description>
-    <image>
-      <url>http://jonathanpaulmitchell.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://jonathanpaulmitchell.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 16 Dec 2021 12:25:28 +0100</lastBuildDate><atom:link href="http://jonathanpaulmitchell.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,7 +13,7 @@
       
       <guid>http://jonathanpaulmitchell.com/about/</guid>
       <description>Welcome to my website.
-I’m a recently minted doctor of philosophy. I was an Irish Research Council Government of Ireland Postgraduate Scholar in the University College Dublin School of Philosophy.
+I’m Jonathan Mitchell, a doctor of philosophy. I was an Irish Research Council Government of Ireland Postgraduate Scholar in the University College Dublin School of Philosophy.
 My research falls within the tradition of critical disability studies, and also draws upon feminist philosophy, twentieth-century continental philosophy, philosophy of biology, and philosophy of technology. It examines the relationship between disability and the human, and the role played by disability in practices that stabilise ideas of what is properly or essentially human.</description>
     </item>
     

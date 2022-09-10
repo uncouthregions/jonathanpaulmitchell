@@ -4,10 +4,6 @@
     <title>Categories on Jonathan Paul Mitchell</title>
     <link>http://jonathanpaulmitchell.com/categories/</link>
     <description>Recent content in Categories on Jonathan Paul Mitchell</description>
-    <image>
-      <url>http://jonathanpaulmitchell.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://jonathanpaulmitchell.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="http://jonathanpaulmitchell.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
