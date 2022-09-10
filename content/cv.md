@@ -102,10 +102,16 @@ description: Updated September 2022
 | English | native speaker |
 | French | speak and read with basic competence (Common European Framework A2.8) |
 
+## Memberships
+|  |  |
+|-------------------------------|----------|
+| Society for Philosophy and Disability   |   |
+| British Society for Phenomenology   |   |
+| Disabled Academic's Collective | |
+
 ## Related Experience
 | Role                                            |          Year |
 | ----------------------------------------------- | -------------:|
-| Member: Society for Philosophy and Disability   |     **2019-** |
 | *Queen’s University Belfast*                    |               |
 | Student Union Councillor                        | **2010-2011** |
 | Community, Equality, Diversity Committee Member | **2009-2011** |
