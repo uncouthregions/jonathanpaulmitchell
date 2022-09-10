@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/homepage/about.md",
+                "file": "content/post/8th-amendment-disability-rights.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/homepage/about.md",
+                "file": "content/post/8th-amendment-disability-rights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/homepage/about.md",
+                "file": "content/post/8th-amendment-disability-rights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,12 +123,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/homepage/about.md"
+                "file": "content/post/8th-amendment-disability-rights.md"
               }
+            }
+          },
+          {
+            "id": "a4f8063052e1352e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -136,14 +144,15 @@
   },
   "active": "1c64810fe7b87705",
   "lastOpenFiles": [
+    "content/post/_index.md",
+    "content/homepage/work.md",
+    "content/homepage/index.md",
+    "content/homepage/about.md",
     "archetypes/default.md",
     "static/jpm-image.jpg",
     "static/jpmitchell-disability-and-the-inhuman.pdf",
     "content/post/normative-limits.md",
     "content/post/expression-structure-of-behavior.md",
-    "content/post/disability-inhuman.md",
-    "content/post/disability-technology-time.md",
-    "content/post/disability-personhood-vulnerability.md",
-    "content/post/8th-amendment-disability-rights.md"
+    "content/post/disability-inhuman.md"
   ]
 }
