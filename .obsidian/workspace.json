@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/homepage/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/homepage/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/homepage/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archetypes/default.md"
+                "file": "content/homepage/about.md"
               }
             }
           }
@@ -134,8 +134,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a50b6c465dd38f36",
+  "active": "1c64810fe7b87705",
   "lastOpenFiles": [
+    "archetypes/default.md",
     "static/jpm-image.jpg",
     "static/jpmitchell-disability-and-the-inhuman.pdf",
     "content/post/normative-limits.md",
