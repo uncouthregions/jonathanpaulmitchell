@@ -86,9 +86,9 @@ Amundson, R. (2000), 'Against Normal Function', *Studies in History and Philosop
 
 Ansell-Pearson, K. (1997), *Viroid Life: Perspectives on Nietzsche and the Transhuman Condition*, London: Routledge.
 
-Bach-y-Rita, Paul *et al* (1969), 'Vision Substitution by Tactile Image Projection', *Nature*, 221 (5184): 963--4.
+Bach-y-Rita, P. *et al* (1969), 'Vision Substitution by Tactile Image Projection', *Nature*, 221 (5184): 963--4.
 
-Babich, Babette. ‘Nietzsche’s Post-Human Imperative: On the “All-Too-Human” Dream of Transhumanism’. In _Nietzsche and Transhumanism: Precursor or Enemy?_, edited by Yunus Tuncel, 101–32. Cambridge: Cambridge Scholars, 2017.
+Babich, B. ‘Nietzsche’s Post-Human Imperative: On the “All-Too-Human” Dream of Transhumanism’. In _Nietzsche and Transhumanism: Precursor or Enemy?_, edited by Yunus Tuncel, 101–32. Cambridge: Cambridge Scholars, 2017.
 
 Boorse, C. (1977), 'Health as a Theoretical Concept', *Philosophy of Science*, 44 (4): 542--73.
 
