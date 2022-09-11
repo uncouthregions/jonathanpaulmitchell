@@ -19,12 +19,7 @@ thinking about disability.
 
 ## Early Theories of Technology
 
-In , suggests that early understandings of technology take one of two forms: instrumentalism and substantivism. In instrumentalism---which is ubiquitous---technologies are
-thought of simply as tools; mere means awaiting use towards autonomously-formulated human ends (Aristotle 2008). They are epistemically and ethically neutral, or
-"subservient to values established in other... spheres" (Feenberg 2002). Instrumentalism is broadly optimistic: technologies are means towards human freedom. Substantivism,
-by contrast, tends towards a pessimistic articulation of technology (Ellul 1964; Heidegger 2013; Horkheimer and Adorno 2007). Here, technology is no mere means, but an
-autonomous force that distorts or replaces other values, and comes to determine human behaviour. This follows from its underlying, instrumental logic, which engenders an
-objectivising disposition towards others and world---as mere manipulable resources---that alienates humans from their non-technological nature.
+In *Technology and the Character of Contemporary Life*, Albert Borgmann suggests that early understandings of technology take one of two forms: instrumentalism and substantivism. In instrumentalism---which is ubiquitous---technologies are thought of simply as tools; mere means awaiting use towards autonomously-formulated human ends (Aristotle 2008). They are epistemically and ethically neutral, or "subservient to values established in other... spheres" (Feenberg 2002). Instrumentalism is broadly optimistic: technologies are means towards human freedom. Substantivism, by contrast, tends towards a pessimistic articulation of technology (Ellul 1964; Heidegger 2013; Horkheimer and Adorno 2007). Here, technology is no mere means, but an autonomous force that distorts or replaces other values, and comes to determine human behaviour. This follows from its underlying, instrumental logic, which engenders an objectivising disposition towards others and world---as mere manipulable resources---that alienates humans from their non-technological nature.
 
 Differences notwithstanding, these share a cluster of related ontological presuppositions that flow from oppositions between natural and artificial, human and nonhuman
 (Latour 1993). I'll concentrate on instrumentalism, and briefly mention three. The first is most fundamental: *the principle of essentialism*. This supposes that there
@@ -185,6 +180,8 @@ Bach-y-Rita, P., C. C. Collins, F. A. Saunders, B. White and L. Scadden (1969), 
 Barthélémy, J.-H. (2015), *Life and Technology: An Inquiry Into and Beyond Simondon*, tran. B. Norman, Lüneberg: Meson Press.
 
 Boorse, C. (1977), 'Health as a Theoretical Concept', *Philosophy of Science*, 44 (4): 542--73.
+
+Borgmann, A. (1984), *Technology and the Character of Contemporary Life*. Chicago: University of Chicago Press.
 
 Buchanan, A. E., D. W. Brock, N. Daniels and D. Wikler (2000), *From Chance to Choice: Genetics and Justice*, Cambridge: Cambridge University Press.
 
