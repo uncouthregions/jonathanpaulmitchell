@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,8 +143,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82c6f463123aede2",
+  "active": "1c64810fe7b87705",
   "lastOpenFiles": [
+    "content/post/expression-structure-of-behavior.mda.md",
+    "content/post/normative-limits.md",
     "content/post/expression-structure-of-behavior.md",
     "content/post/8th-amendment-disability-rights.md",
     "content/post/_index.md",
@@ -153,8 +154,6 @@
     "content/homepage/index.md",
     "content/homepage/about.md",
     "archetypes/default.md",
-    "static/jpm-image.jpg",
-    "static/jpmitchell-disability-and-the-inhuman.pdf",
-    "content/post/normative-limits.md"
+    "static/jpm-image.jpg"
   ]
 }
