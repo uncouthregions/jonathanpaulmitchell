@@ -1,6 +1,7 @@
 ---
+author: Jonathan Paul Mitchell
 title: "Atypical Morphology and the Normative Limits of Ability and Function"
-date: 2015-01-27T12:25:28+01:00
+date: 2015-09-25T12:25:28+01:00
 draft: false
 ---
 
@@ -109,137 +110,68 @@ reason to differentiate between biotechnical, or medical and social, interventio
 
 # Works Cited
 
-::: {#refs .references .csl-bib-body .hanging-indent}
-::: {#ref-AmundsonNormalFunction2000 .csl-entry}
 Amundson, R. (2000), 'Against Normal Function', *Studies in History and Philosophy of Biological and Biomedical Sciences*, 31 (1): 33--53.
-:::
 
-::: {#ref-Ansell-PearsonViroidLife1997 .csl-entry}
 Ansell-Pearson, K. (1997), *Viroid Life: Perspectives on Nietzsche and the Transhuman Condition*, London: Routledge.
-:::
 
-::: {#ref-BabichNietzschePostHuman2011 .csl-entry}
 Babich, Babette. ‘Nietzsche’s Post-Human Imperative: On the “All-Too-Human” Dream of Transhumanism’. In _Nietzsche and Transhumanism: Precursor or Enemy?_, edited by Yunus Tuncel, 101–32. Cambridge: Cambridge Scholars, 2017.
-:::
 
-::: {#ref-BoorseHealthTheoretical1977 .csl-entry}
 Boorse, C. (1977), 'Health as a Theoretical Concept', *Philosophy of Science*, 44 (4): 542--73.
-:::
 
-::: {#ref-BoorseRebuttalHealth1997 .csl-entry}
 Boorse, C. (1997), 'A Rebuttal on Health', in J. M. Humber and R. F. Almeder (eds), *What Is Disease?*, 3--134, Totowa, NJ: Humana Press.
-:::
 
-::: {#ref-BoorseSecondRebuttal2014 .csl-entry}
 Boorse, C. (2014), 'A Second Rebuttal On Health', *J Med Philos*, 39 (6): 683--724.
-:::
 
-::: {#ref-CampbellBiosImmunity2008 .csl-entry}
 Campbell, T. (2008), 'Bìos, Immunity, Life: The Thought of Roberto Esposito', *Bìos: Biopolitics and Philosophy by Roberto Esposito*, vii--xlii, Minneapolis: Minnesota University Press.
-:::
 
-::: {#ref-CanguilhemNormalPathological1991 .csl-entry}
 Canguilhem, G. (1991), *The Normal and the Pathological*, New York: Zone Books.
-:::
 
-::: {#ref-DeleuzePostscriptSocieties1992 .csl-entry}
 Deleuze, G. (1992), 'Postscript on the Societies of Control', *October*, 59: 3--7.
-:::
 
-::: {#ref-EspositoBiosBiopolitics2008 .csl-entry}
 Esposito, R. (2008), *Bíos: Biopolitics and Philosophy*, London: University of Minnesota Press.
-:::
 
-::: {#ref-EspositoPersonsThings2015 .csl-entry}
 Esposito, R. (2015), *Persons and Things: From the Body's Point of View*, Cambridge: Polity.
-:::
 
-::: {#ref-FoucaultHistorySexuality1978 .csl-entry}
 Foucault, M. (1978), *The History of Sexuality Volume 1: An Introduction*, tran. R. Hurley, New York: Pantheon Books.
-:::
 
-::: {#ref-FoucaultAbnormalLectures2005 .csl-entry}
 Foucault, M. (2005), *Abnormal: Lectures at the College de France, 1974-1975*, eds. A. Salomoni and V. Marchetti, tran. G. Burchell, London: Verso.
-:::
 
-::: {#ref-FoucaultOrderThings2012 .csl-entry}
 Foucault, M. (2012), *The Order of Things: An Archaeology of the Human Sciences*, London: Routledge.
-:::
 
-::: {#ref-GallagherSociallyExtended2013 .csl-entry}
 Gallagher, S. (2013), 'The Socially Extended Mind', *Cognitive Systems Research*, 25--26: 4--12.
-:::
 
-::: {#ref-Garland-ThomsonCaseConserving2012 .csl-entry}
 Garland-Thomson, R. (2012), 'The Case for Conserving Disability', *Bioethical Inquiry*, 9 (3): 339--55.
-:::
 
-::: {#ref-GroszNickTime2004 .csl-entry}
 Grosz, E. (2004), *The Nick of Time: Politics, Evolution, and the Untimely*, London: Duke University Press.
-:::
 
-::: {#ref-HarrisEnhancingEvolution2010 .csl-entry}
 Harris, J. (2010), *Enhancing Evolution: The Ethical Case for Making Better People*, Oxford: Princeton University Press.
-:::
 
-::: {#ref-HughesSocialModel1997 .csl-entry}
 Hughes, B. and K. Paterson (1997), 'The Social Model of Disability and the Disappearing Body: Towards a Sociology of Impairment', *Disability & Society*, 12 (3): 325--40.
-:::
 
-::: {#ref-HurleyVarietiesExternalism2010 .csl-entry}
 Hurley, S. (2010), 'The Varieties of Externalism', in R. Menary (ed), *The Extended Mind*, 101--54, London: MIT Press.
-:::
 
-::: {#ref-KaferFeministQueer2013 .csl-entry}
 Kafer, A. (2013), *Feminist, Queer, Crip*, Bloomington and Indianapolis: Indiana University Press.
-:::
 
-::: {#ref-Leroi-GourhanGestureSpeech1993 .csl-entry}
 Leroi-Gourhan, A. (1993), *Gesture and Speech*, tran. A. Bostock Berger, Cambridge, Mass.: MIT Press.
-:::
 
-::: {#ref-Merleau-PontyPhenomenologyPerception2012 .csl-entry}
 Merleau-Ponty, M. (2012), *Phenomenology of Perception*, tran. D. Landes, London: Routledge.
-:::
 
-::: {#ref-MillsFuturesReproduction2011 .csl-entry}
 Mills, C. (2011), *Futures of Reproduction: Bioethics and Biopolitics*, London: Springer.
-:::
 
-::: {#ref-MillsCaseMissing2014 .csl-entry}
 Mills, C. (2014), 'The Case of the Missing Hand: Gender, Disability, and Bodily Norms in Selective Termination', *Hypatia*, 30 (1): 82--96.
-:::
 
-::: {#ref-OliverNewPolitics2012 .csl-entry}
 Oliver, M. and C. Barnes (2012), *The New Politics of Disablement*, Basingstoke: Palgrave Macmillan.
-:::
 
-::: {#ref-ProteviLifeWar2014 .csl-entry}
 Protevi, J. (2014), *Life, War, Earth: Deleuze and the Sciences*, London: University of Minnesota Press.
-:::
 
-::: {#ref-ShakespeareDisabilityRights2014 .csl-entry}
 Shakespeare, T. (2014), *Disability Rights and Wrongs Revisited*, London: Routledge.
-:::
 
-::: {#ref-SilversFatalAttraction1998 .csl-entry}
-Silvers, A. (1998), 'A Fatal Attraction to Normalizing: Treating Disabilities as Deviations from 'Species-Typical' Functioning', *Enhancing Human Capacities: Conceptual Complexities and Ethical
-Implications*, 95--123, Washington: Georgetown University Press.
-:::
+Silvers, A. (1998), 'A Fatal Attraction to Normalizing: Treating Disabilities as Deviations from 'Species-Typical' Functioning', *Enhancing Human Capacities: Conceptual Complexities and Ethical Implications*, 95--123, Washington: Georgetown University Press.
 
-::: {#ref-SmithSocialJustice2009 .csl-entry}
 Smith, S. R. (2009), 'Social Justice and Disability: Competing Interpretations of the Medical and Social Models', in K. Kristiansen, S. Vehmas and T. Shakespeare (eds), *Arguing About Disability: Philosophical Perspectives*, 15--29, London: Routledge.
-:::
 
-::: {#ref-StieglerTechnicsTime1998 .csl-entry}
 Stiegler, B. (1998), *Technics and Time: The Fault of Epimetheus*, tran. G. Beardsworth, Stanford: Stanford University Press.
-:::
 
-::: {#ref-WendellRejectedBody1996 .csl-entry}
 Wendell, S. (1996), *The Rejected Body: Feminist Philosophical Reflections on Disability*, London: Routledge.
-:::
 
-::: {#ref-ZylinskaPlayingGod2010 .csl-entry}
 Zylinska, J. (2010), 'Playing God, Playing Adam: The Politics and Ethics of Enhancement', *Bioethical Inquiry*, 7 (2): 149--61.
-:::
-:::
