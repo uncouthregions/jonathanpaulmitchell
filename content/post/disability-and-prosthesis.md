@@ -197,7 +197,7 @@ Feenberg, A. (2002), *Transforming Technology: A Critical Theory Revisited*, Oxf
 
 Heidegger, M. (2013), 'The Question Concerning Technology', *The Question Concerning Technology and Other Essays*, 3--35, New York: Harper Perennial.
 
-Horkheimer, M. and T. W. Adorno (2007), *Dialectic of Enlightenment*, First, ed. G. S. Noerr, Stanford: Stanford University Press.
+Horkheimer, M. and T. W. Adorno (2007), *Dialectic of Enlightenment*, Stanford: Stanford University Press.
 
 LaMarre, T. (2012), 'Afterword: Humans and Machines', *Gilbert Simondon and the Philosophy of the Transindividual*, Technologies of Lived Abstraction, 90--107, London: MIT
 Press.
