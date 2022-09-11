@@ -59,15 +59,10 @@ this boundary is not read off nature, but introduced into it.
 
 Latterly, philosophers of technology have undertaken an ontological reorientation away from dualisms that place human subject over and against technological object, to
 instead understand humans as profoundly interrelated with technologies. I'll talk now about Bernard Stiegler, then discuss some implications of his position for disability
-and prosthesis.
-
-I'll call his position strong or 'constitutive' prosthesis, because he understands technology as internal to the definition of *humanitas*. The human is constituted as such
-through technological activity (Stiegler 1998). His argument goes roughly as follows. The human is 'born too early': it has no inherent capacities, including memory. This
-susceptibility---this *défaut* or lack---is constitutive and originary: what the human has, essentially, is nothing: its essence is indetermination. It makes technology to
-mitigate this deficiency. Such supplements as language, sociality, and tools transform environs and ultimately defer death. The human exists *as* its concurrent
+and prosthesis. I'll call his position strong or 'constitutive' prosthesis, because he understands technology as internal to the definition of *humanitas*. The human is constituted as such  technological activity (Stiegler 1998). His argument goes roughly as follows. The human is 'born too early': it has no inherent capacities, including memory. This susceptibility---this *défaut* or lack---is constitutive and originary: what the human has, essentially, is nothing: its essence is indetermination. It makes technology to mitigate this deficiency. Such supplements as language, sociality, and tools transform environs and ultimately defer death. The human exists *as* its concurrent
 externalisation in technical materials, and internalisation of this prosthetic *ek-sistence*. This is a co-constitution of 'inside' and 'outside', rather than an addition of
-external technology to the preexisting interior of a human essence: ""\[M\]an invents himself in technics by inventing the tool---by 'externalising' himself techno-logically
-\[...\] the interior is invented through this movement: it cannot precede it" (Stiegler 1998: 141--42). Finally, this produces a rupture from 'pure' biological life.
+external technology to the preexisting interior of a human essence: "[M]an invents himself in technics by inventing the tool---by 'externalising' himself techno-logically
+[…] the interior is invented through this movement: it cannot precede it" (Stiegler 1998: 141--42). Finally, this produces a rupture from 'pure' biological life.
 Technology comprises a new inorganic organisation of memory (Stiegler 1998): human culture made concrete in enduring technical artefacts. Humans, then, have definitively
 shifted from genetic to non-genetic memory: they are not determined to be what they are by their genetic endowments. They are liberated from genetics, and subject to new,
 non-biological exigencies, which only increases their indetermination.
@@ -78,16 +73,16 @@ completeness and insufficiency, between fully and partially human. Finally, tech
 Stiegler too hastily. This is because, first, he separates biology and technology too forcefully, and does not sufficiently acknowledge relations between bodies and
 technologies. For him, 'Man' still evolves biologically as an animal, but becomes human only through technical evolution: by using tools to anticipate possibilities other
 than those proscribed by genetics. Human invention principally concerns a *vie d'esprit* that is not biological, but technically-instantiated. Even though this *vie
-d'esprit* exists in material technologies, Stiegler skirts close to a technologised variation on mind-body dualism.\[\^fn1\] Externalisation in technics is simultaneously
+d'esprit* exists in material technologies, Stiegler skirts close to a technologised variation on mind-body dualism.[^fn1] Externalisation in technics is simultaneously
 internalisation within the human, but only within technical *subjectivity*. This subjectivity is robustly divided from the biological body---equated by Stiegler with
-'stupidity'\[*bêtise*\]---which makes it difficult to grasp how technology interacts with and affects the body. This problem cannot be overstated, since Stiegler's basic
+'stupidity'[*bêtise*]---which makes it difficult to grasp how technology interacts with and affects the body. This problem cannot be overstated, since Stiegler's basic
 position is that humans exist precisely at their point of separation from biological features. This approaches a denial that biology is an aspect of humanity. It also
 entails a robust division between nature (locked into evolutionary adaptation and mechanistic repetition) and culture (liberated by technics to radically innovate). This is
 reminiscent of Sartre's existentialism, that goes even further to effectively deny that the human has biological features (Esposito 2011).
 
 This echoes debates in disability studies concerning whether impairment is a biological or social artefact. In Stiegler's account, impairment would reside in the biological
 register, though it could be radically overcome by technics. This suggests an inability to adequately address a question motivating this paper: what role do technologies
-*already* play in disability? Surely biology and technology do not have separate causal histories?[^1] I'll suggest that the very emergence of disability is enacted in and
+*already* play in disability? Surely biology and technology do not have separate causal histories?[^fn2] I'll suggest that the very emergence of disability is enacted in and
 through relations between bodies and technologies, broadly construed, that regularise valued and disvalued properties.
 
 A second problem concerns lack: Stiegler rejects a fixed biological nature for an equally universal foundation. It is not insignificant that Stiegler begins from Lacanian
@@ -100,18 +95,7 @@ suggest heterogeneity, and vulnerability by degrees.
 ## Gilbert Simondon and Individuation
 
 So while Stiegler's originary technicity looked promising, it doesn't address the body's own contingency, and its interrelation with, not transcendence by, technology. I'll
-turn to Gilbert Simondon's work to this end, before making some suggestions about technology's role in the production of the human.
-
-Simondon's organising concept---individuation---understands individuals in terms of process and relations. It can be very roughly characterised as follows. The individual
-can only be understood relative to the preindividual. These two concepts do not identify discrete substances, but two phases in an ongoing process that Simondon calls
-individuation. Individuals are the products of individuation (though in the case of living individuation, this process is never complete). The preindividual---perhaps
-Simondon's signature concept---is the condition for individuation: a domain or reservoir of potential, 'prior' to structuration as an individual, and out of whose tensions
-individuals emerge. Individuals are resolutions of tensions with the preindividual field. The preindividual is continually replenished by the process of individuation, and
-remains primed to engender further transformations. Alongside the individual, individuation also produces a specific *associated milieu*, to which that individual relates.
-This relation between individual and milieu is the 'location' of the preindividual. As Pascal Chabot writes, "\[t\]o exist is to be connected" (Chabot 2013: 77). This means
-that relations are not accidents that affect a pre-given individual. Relations are part of what brings that individual into existence. The individual is not *in* relation;
-it *is* relation. An individual, then, exists as an unfolding trajectory. It is never self-identical or complete, but one phase of a becoming: the temporary crystallisation
-of a set of preindividual potentials. While there is structure or stability, it is an outcome of 'underlying' operation or process.
+turn to Gilbert Simondon's work to this end, before making some suggestions about technology's role in the production of the human. Simondon's organising concept---individuation---understands individuals in terms of process and relations. It can be very roughly characterised as follows. The individual can only be understood relative to the preindividual. These two concepts do not identify discrete substances, but two phases in an ongoing process that Simondon calls individuation. Individuals are the products of individuation (though in the case of living individuation, this process is never complete). The preindividual---perhaps Simondon's signature concept---is the condition for individuation: a domain or reservoir of potential, 'prior' to structuration as an individual, and out of whose tensions individuals emerge. Individuals are resolutions of tensions with the preindividual field. The preindividual is continually replenished by the process of individuation, and remains primed to engender further transformations. Alongside the individual, individuation also produces a specific *associated milieu*, to which that individual relates. This relation between individual and milieu is the 'location' of the preindividual. As Pascal Chabot writes, "[t]o exist is to be connected" (Chabot 2013: 77). This means that relations are not accidents that affect a pre-given individual. Relations are part of what brings that individual into existence. The individual is not *in* relation; it *is* relation. An individual, then, exists as an unfolding trajectory. It is never self-identical or complete, but one phase of a becoming: the temporary crystallisation of a set of preindividual potentials. While there is structure or stability, it is an outcome of 'underlying' operation or process.
 
 ## Simondon and Technology
 
@@ -121,7 +105,7 @@ with its own discrete structure (Simondon 2012: 21). During their 'perfection', 
 The technical object, then, acquires a range that exceeds original intention "due to the superabundant efficacy of the created object when it is a true invention" (Simondon
 1966, 1197). And, it gradually realises relations to an associated milieu. So where the abstract object was entirely artificial---and identified closely with the inventor's
 goals---a concrete object has a mode of existence irreducible to any human artifice or natural law, that "approximates the mode of existence of natural objects" (Simondon
-2012: 46 CHECK). Consider too how many things called natural are in fact artificial: a cultured flower is the product of human artifice (which would make it unnatural in
+2012: 46). Consider too how many things called natural are in fact artificial: a cultured flower is the product of human artifice (which would make it unnatural in
 classical terms), and cannot fruit by itself (Chabot 2013: 17). To simplify: *the concrete object has essentially an openness that the abstract object lacked*. It is
 loosened---albeit not completely---from human origin and ascribed purpose. Perfection does not instantiate Platonic form: a complete, abstract thing given in one blow. It
 inaugurates a pattern open to dynamic transformation, an object with a higher degree of openness, a greater "margin of indetermination" (Simondon 2012: 11). Indeed, it is
@@ -134,7 +118,7 @@ character. This is overlooked when attention is restricted to structure, taking 
 enough, the modern metaphysical chauvinism towards the self-identical submits such openness to a logic of closure, generating both an anthropocentric view of the human (as
 self-identical, self-contained and autonomous), and an instrumental view of technology (called the 'labour paradigm'). The latter doesn't only address work, but rather
 describes a disposition towards technology---that affects life at all levels and scales---that ignores its genesis, its human relation, and above all its openness: "the
-inherence \[in technicity\] of values going beyond utility" (Simondon 2012: 222). I'll dwell on this a little before turning to Simondon's positive implications.
+inherence [in technicity] of values going beyond utility" (Simondon 2012: 222). I'll dwell on this a little before turning to Simondon's positive implications.
 
 This closure---of human and technology within themselves, and from each other---is surely significant for disability, grounding as it does the abstract autonomy that
 underpins normal function (and that echoes instrumentalism). This allows humans to understand themselves as fully autonomous even as their actions are
@@ -151,22 +135,12 @@ properties nor inherent lack. It is a spatiotemporal event, that occurs where a 
 absent or inapt. Disability and ability are relations between real bodies and technologies, where the contribution of the latter is effaced.
 
 ## Transductive Prosthesis and Technical Ethics
-
 Now I'll turn to the affirmative register of Simondon's thought, to make some suggestions for alternative ways to think the human-technology relation, which I'll call
 *transductive prosthesis*: transductive because neither participant is entirely the agent, and every individuation is conditioned upon earlier individuations, that conserve
 their own potential for transformation. While Stiegler is right that technical evolution transforms the human, this is not based in a compensation for vulnerability. There
-is nothing essentially lacking in humans (or any individual). Muriel Combes suggests that Simondon proffers a humanism "constructed on the ruins of anthropology and on the
-renunciation of the idea of a nature or human essence" (Combes 2012: 49). Saying that the essence of the human is that it has no essence, while aporetic, is still a
+is nothing essentially lacking in humans (or any individual). Muriel Combes (2012: 49) suggests that Simondon proffers a humanism "constructed on the ruins of anthropology and on the renunciation of the idea of a nature or human essence". Saying that the essence of the human is that it has no essence, while aporetic, is still a
 universalising claim. Simondon instead asserts that they are instead characterised by potential to differentiate that is characteristic of the living in general. Humans are
-but one vector within a continuity of living individuation. Humans and technological objects each contain this potential, essentially but differently.[^2] There is something
-human in technology, not because they are makers and users, but because the technical individual is an elaboration of potentialities within humans. Nevertheless, technology
-is not constitutive in Stiegler's sense: it is merely one---albeit highly significant---trajectory of individuation. Technology doesn't stand opposed to the living or
-compensate for its weaknesses: it ramifies the living. Even though they emerge from human activities, their openness means that technologies retain a kind of quasi-agency
-that is not parasitic upon humans. The human-technology relation is *co-individuation*: a "dialogue between humans and machines" that engages preindividual forces in human
-and technology that individuate together (LaMarre 2012: 98). Humans are "conductors in the world orchestra of technology around them", of which they too are part (Simondon
-2012: 11). Simondon will explicitly suggest that the human is not a pre-given set of somatic or cognitive capacities, but a living being that enters into relations with
-technical objects in an associated milieu. The relation of humans to machines is piecemeal, a pragmatic "perpetual invention" (Simondon 2012: 12). And technology retroacts
-upon or loops back into nature. Their inventions transform milieus, which provokes in turn new invention.
+but one vector within a continuity of living individuation. Humans and technological objects each contain this potential, essentially but differently.[^fn3] There is something human in technology, not because they are makers and users, but because the technical individual is an elaboration of potentialities within humans. Nevertheless, technology is not constitutive in Stiegler's sense: it is merely one---albeit highly significant---trajectory of individuation. Technology doesn't stand opposed to the living or compensate for its weaknesses: it ramifies the living. Even though they emerge from human activities, their openness means that technologies retain a kind of quasi-agency that is not parasitic upon humans. The human-technology relation is *co-individuation*: a "dialogue between humans and machines" that engages preindividual forces in human and technology that individuate together (LaMarre 2012: 98). Humans are "conductors in the world orchestra of technology around them", of which they too are part (Simondon 2012: 11). Simondon will explicitly suggest that the human is not a pre-given set of somatic or cognitive capacities, but a living being that enters into relations with technical objects in an associated milieu. The relation of humans to machines is piecemeal, a pragmatic "perpetual invention" (Simondon 2012: 12). And technology retroacts upon or loops back into nature. Their inventions transform milieus, which provokes in turn new invention.
 
 I'll finally make three brief recommendations about disability-technology relations in a Simondonian key. First, taking individuation seriously means resisting closure and
 teleology in biology and technology alike. Remaining with structure only discloses regularity, and (somewhat) warrants the understanding of humans as (however imperfect)
@@ -193,13 +167,16 @@ experimental elaboration. Importantly, as we've seen, individuation also brings 
 new milieu. Of course, this is already happening everywhere. We only need to look for it, and keep bringing it to light.
 
 [^fn1]: Defenders suggest that this is not so. Gerald Moore claims that Stiegler is suggesting that "humanity has no essential basis in biology", and that technics is in
-principle available to any living being (Moore 2013: 27). But this seems just as anthropocentric: if animals could use tools, they would be just like humans. [^fn2]: While
-it is beyond the scope of this paper, contemporary philosophy of biology suggests that Stiegler's adaptationist account is also rather outmoded. See, for example, work by
-Susan Oyama (2000). [^fn2]: Though it's beyond the scope of this paper, I echo Tamar Sharon's (2013) suggestion that developments in biology that prioritise contingency over
+principle available to any living being (Moore 2013: 27). But this seems just as anthropocentric: if animals could use tools, they would be just like humans.
+
+[^fn2]: While it is beyond the scope of this paper, contemporary philosophy of biology suggests that Stiegler's adaptationist account is also rather outmoded. See, for example, work by Susan Oyama (2000). 
+
+[^fn3]: Though it's also beyond the scope of this paper, I echo Tamar Sharon's (2013) suggestion that developments in biology that prioritise contingency over
 genetic determinism---niche construction, non-genetic evolution and development, autopoiesis---could be considered in relation to technology, to develop a robust, processual
 account of bodily-technological elaboration, without requiring that biology be transcended.
 
-## Works Cited Amundson, R. (2000), 'Against Normal Function', *Studies in History and Philosophy of Biological and Biomedical Sciences*, 31 (1): 33--53.
+## Works Cited
+Amundson, R. (2000), 'Against Normal Function', *Studies in History and Philosophy of Biological and Biomedical Sciences*, 31 (1): 33--53.
 
 Aristotle (2008), *Physics*, Oxford World's Classics, tran. R. Waterfield, Oxford: Oxford University Press.
 
