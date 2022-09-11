@@ -12,7 +12,7 @@ draft: false
 
 This paper largely concerns grounding concepts that inform medical and social theories of impairment. It discusses impairment in relation to normal function, including its identification as deviation from normal health. It then draws upon phenomenological concepts to develop an alternate account of embodiment, as always already dependent upon relations with things outside itself. It posits that 'normal ability' is consequently a socio-historical elaboration rather than an objectively existing state of affairs, and that the accompanying prioritisation of some modes of embodiment over others creates the phenomenon called disability. Finally, it outlines an alternative framework that eschews reference to transcendent norms for grounding in capacities and goals, however atypical, of embodied agents.
 
-## 1.1. Medical and Social Theories of Disability and Impairment
+# 1.1. Medical and Social Theories of Disability and Impairment
 
 The meaning of disability is commonly take as settled. It is a personal problem occasioned by a dysfunctional body or property thereof. This 'medical model' broadly asserts the following (by degrees). (1) Identity obtains between disability and abnormal individual morphology. (2) This morphology fails to realise normal human function. (3) Disabilities directly cause negative outcomes or health decrements. (4) Consequently, disabilities warrant correction or rehabilitation, which the disabled person should aﬃrm.
 

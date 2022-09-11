@@ -140,9 +140,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "1c64810fe7b87705",
+  "active": "a4f8063052e1352e",
   "lastOpenFiles": [
     "content/post/expression-structure-of-behavior.md",
     "content/post/8th-amendment-disability-rights.md",
