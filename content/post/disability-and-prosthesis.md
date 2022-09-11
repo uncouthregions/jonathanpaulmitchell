@@ -167,7 +167,7 @@ experimental elaboration. Importantly, as we've seen, individuation also brings 
 new milieu. Of course, this is already happening everywhere. We only need to look for it, and keep bringing it to light.
 
 [^fn1]: Defenders suggest that this is not so. Gerald Moore claims that Stiegler is suggesting that "humanity has no essential basis in biology", and that technics is in
-principle available to any living being (Moore 2013: 27). But this seems just as anthropocentric: if animals could use tools, they would be just like humans.
+principle available to any living being (2013: 27). But this seems just as anthropocentric: if animals could use tools, they would be just like humans.
 
 [^fn2]: While it is beyond the scope of this paper, contemporary philosophy of biology suggests that Stiegler's adaptationist account is also rather outmoded. See, for example, work by Susan Oyama (2000). 
 
