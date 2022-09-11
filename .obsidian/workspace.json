@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/post/normative-limits.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -143,7 +143,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4f8063052e1352e",
+  "active": "1c64810fe7b87705",
   "lastOpenFiles": [
     "content/post/expression-structure-of-behavior.md",
     "content/post/8th-amendment-disability-rights.md",
