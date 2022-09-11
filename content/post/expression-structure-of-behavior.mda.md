@@ -60,10 +60,10 @@ Giving centrality to problems in expressive bodily behaviour allows us to avoid 
 
 As we have seen, *SB* already has a different, arguably more nuanced, account. For Merleau-Ponty, overcoming structures and creating new ones is characteristically human, which precisely involves thematisation of, not immersion in, a behavioural context. Indeed, skillful coping might be considered closer to what Merleau-Ponty would consider amovable, or even syncretic, behavior, correlated tightly with a context. While in *SB* human behaviour shuttles between degrees of integration, only creatively surpassing structure expresses their proper being. Landes, by enjoining Simondon to suggest that behaviour is a moving trajectory of metastable equilibriums, further strengthens this reading. For Simondon, problems or paradoxes are centrally implicated in the emergence of the new. They indicate that something cannot be straightforwardly absorbed into the existing state of affairs, and demands a creative response. Behaviour is a continual tension and release. A spontaneous grip on the world, that instigates a bodily form or sense, occurs alongside the creative inauguration and resolution of problems as the body moves through more or less familiar situations. The crucial difference is this: for Dreyfus elimination of tension is a telos. This, Jack Reynolds suggests, denies problems and tensions them their "incendiary power" [@ReynoldsDreyfusDeleuze2006, 533]. Problems and paradoxes, however, introduce something irreducible to the current equilibrium, that can surpass it towards the future. Problems are not something accidental that an individual needs to solve to restore a stable equilibrium. Building from Landes' reading of the metastability of behaviour, we can suggest that formation of and response to problems—and the concomitant creative instigation of merely metastable equilibriums of sense—is a foundational aspect of expressive bodily being.
 
-[^fn1]: "... une résolution des tensions premières et une conservation de ces tensions sous forme de structure".
+[^fn1]: "… une résolution des tensions premières et une conservation de ces tensions sous forme de structure".
 
 [^fn2]: Here Merleau-Ponty draws upon the work of Jakob von Uexküll [@VonUexkullForayWorlds2010]. 
 
-[^fn3]: "... l'information est la formule de l'individuation, formule qui ne peut préexister à cette individuation".
+[^fn3]: "… l'information est la formule de l'individuation, formule qui ne peut préexister à cette individuation".
 
-### Works Cited
+## Works Cited
