@@ -85,7 +85,7 @@ Reynolds, J. (2006), 'Dreyfus and Deleuze on *L'habitude*, Coping, and Trauma in
 
 Salamon, G. (2012), ‘The Phenomenology of Rheumatology: Disability, Merleau-Ponty, and the Fallacy of Maximal Grip’, *Hypatia* 27 (2): 243–60.
 
-Simondon, G. (2013), *L'individuation à la lumière des notions de Forme et d'information*, Grenoble: Editions Jérôme Millon.
+Simondon, G. (2013), *L'individuation à la lumière des notions de forme et d'information*, Grenoble: Editions Jérôme Millon.
 
 Simondon, G. (2020), *Individuation in Light of Notions of Form and Information*, tran. T. Adkins, Minneapolis, University of Minnesota Press.
 
