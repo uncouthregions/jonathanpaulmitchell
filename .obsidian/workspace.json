@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/normative-limits.md",
+                "file": "content/post/expression-structure-of-behavior.md",
                 "mode": "source",
                 "source": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/normative-limits.md",
+                "file": "content/post/expression-structure-of-behavior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/normative-limits.md",
+                "file": "content/post/expression-structure-of-behavior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/normative-limits.md"
+                "file": "content/post/expression-structure-of-behavior.md"
               }
             }
           },
@@ -145,15 +145,15 @@
   },
   "active": "1c64810fe7b87705",
   "lastOpenFiles": [
-    "content/post/expression-structure-of-behavior.mda.md",
+    "content/posts/expression-structure-of-behavior.md",
     "content/post/normative-limits.md",
+    "content/post/expression-structure-of-behavior.mda.md",
     "content/post/expression-structure-of-behavior.md",
     "content/post/8th-amendment-disability-rights.md",
     "content/post/_index.md",
     "content/homepage/work.md",
     "content/homepage/index.md",
     "content/homepage/about.md",
-    "archetypes/default.md",
-    "static/jpm-image.jpg"
+    "archetypes/default.md"
   ]
 }
