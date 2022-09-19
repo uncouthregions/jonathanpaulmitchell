@@ -8,5 +8,3 @@ author = "Jonathan Paul Mitchell"
 
 - [Twitter](https://twitter.com/UncouthRegions)
 - [Email](mailto:"hello@jonathanpaulmitchell.com")
-
-{{< embed-pdf url="./attachments/jpmitchell-disability-and-the-inhuman.pdf" >}}
