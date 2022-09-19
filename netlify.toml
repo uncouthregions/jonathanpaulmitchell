@@ -1,0 +1,8 @@
+...
+
+[[headers]]
+  for = "/content/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+
+...
