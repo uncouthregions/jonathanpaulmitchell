@@ -1,5 +1,5 @@
 
 [[headers]]
-  for = "/content/*"
+  for = "/post/content/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
