@@ -5,3 +5,6 @@ themes/paper
 themes/.DS_Store
 content/.DS_Store
 hugo-embed-pdf-shortcode/
+public/.DS_Store
+themes/.DS_Store
+.DS_Store
