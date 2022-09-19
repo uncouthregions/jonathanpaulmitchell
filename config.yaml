@@ -62,7 +62,7 @@ params:
     imageUrl: "/images/jpm-image.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: Picture of Jonathan Mitchell
     buttons:
       - name: Updates
         url: post
@@ -75,7 +75,7 @@ params:
   homeInfoParams:
     Title: "Welcome to my website."
     Content: >
-      I’m a recently minted doctor of philosophy.
+      I’m a recently qualified doctor of philosophy.
       I work as a philosopher and critical disability theorist. You can read more about me and my work <a href="https://www.jonathanpaulmitchell.com/about/">here</a>.
       As it stands, this website is simply a place where I will share some unpolished drafts from conference and workshop presentations.
 
