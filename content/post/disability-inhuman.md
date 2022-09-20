@@ -13,14 +13,4 @@ I address these topics in three stages. First, I briefly sketch how common under
 
 <embed src="/jpmitchell-disability-and-the-inhuman.pdf" type="application/pdf">
 
-<div id="adobe-dc-view" style="width: 800px;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
-<script type="text/javascript">
-    document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-        var adobeDCView = new AdobeDC.View({clientId: "3f1d5c1b3fde4e0e8b710f967ec081ac", divId: "adobe-dc-view"});
-        adobeDCView.previewFile({
-            content:{location: {url: "https://documentcloud.adobe.com/view-sdk-demo/PDFs/Summary.pdf"}},
-            metaData:{fileName: "Summary.pdf"}
-         }, {embedMode: "IN_LINE"});
-    });
-</script>
+<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="63l7gzmwegx5jg3"></script>
