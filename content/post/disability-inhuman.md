@@ -7,9 +7,9 @@ draft: false
 
 A final version of this paper is published as “Disability and the Inhuman”, in *Perception and the Inhuman Gaze: Perspectives from Philosophy, Phenomenology and the Sciences*, edited by Anya Daly, James Jardine, Fred Cummins, and Dermot Moran, 298-307. London: Routledge, 2020.
 
-When presented with the term ‘inhuman’, I was drawn to consider how certain ways of being become associated with the inhuman, how this association is involved in the constitution of what is taken as properly human, and the deleterious effects for those who become associated with the inhuman. I’m going to address these topics in three stages. First, I’ll briefly sketch how common understandings of disability might be thought of as ‘dehumanising’. Next, I’ll outline why I think that appeals to the category of the human are inapt as a response to such dehumanization. Finally, I will point towards an alternative, positive sense of the inhuman.
+When presented with the term 'inhuman', I was drawn to consider how certain ways of existing become associated with the inhuman; how such associations are involved in the constitution of what is taken as properly human; and finally, the deleterious effects for those who, because they move or thing in unconventional ways, become associated with the inhuman. I address these topics in three stages. First, I briefly sketch how common understandings of disability might be thought of as 'dehumanising'. Next, I’ll outline why I think that appeals to the category of 'humanity' are inapt as a response to such dehumanisation, because this category itself is ill-suited to the apprehension and valuation of the existing diversity of bodies and minds. Finally, I will point towards an alternative, positive sense of the inhuman, and a disposition towards an inhuman future, where this involves attempting to imagine and move towards a future that is not already captured by present humanist ideals.
 
-<div id="adobe-dc-view" style="width: 800px;"></div>
+<div id="adobe-dc-view" style="width: 600px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
    document.addEventListener("adobe_dc_view_sdk.ready", function(){
