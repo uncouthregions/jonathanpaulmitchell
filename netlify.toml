@@ -1,4 +1,4 @@
 [[headers]]
-  for = "/post/*"
+  for = "/posts/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
