@@ -62,13 +62,13 @@ By contrast, all activity involves relations. If living is the movement of bodil
 
 [^1]: Maurice Merleau-Ponty, *Phenomenology of Perception*, trans. Donald Landes (London: Routledge, 2012).
 
-[^2]: Aud Sissel Hoel and Annamaria Carusi, "Thinking Technology with Merleau-Ponty," in *Postphenomenological Investigations: Essays on Human-Technology Relations*, ed. Robert Rosenberger and Peter-Paul Verbeek, Postphenomenology and the Philosophy of Technology (London: Lexington Books, 2015), 78.
+[^2]: Aud Sissel Hoel and Annamaria Carusi, "Thinking Technology with Merleau-Ponty," in *Postphenomenological Investigations: Essays on Human-Technology Relations*, ed. Robert Rosenberger and Peter-Paul Verbeek (London: Lexington Books, 2015), 78.
 
 [^3]: John McCumber, "Why Is Time Different from Space?" in *Beyond the Analytic-Continental Divide: Pluralist Philosophy in the Twenty-First Century*, ed. Jeffrey A. Bell, Andrew Cutrofello, and Paul M. Livingston (London: Routledge, 2016), 201.
 
-[^4]: Komarine Romdenh-Romluc, "Merleau-Ponty and the Power to Reckon with the Possible," 2007, doi:[Google Scholar](https://doi.org/Google Scholar).
+[^4]: Komarine Romdenh-Romluc, "Merleau-Ponty and the Power to Reckon with the Possible," in *Reading Merleau-Ponty*, ed. Thomas Baldwin (London: Routledge, 2007), 44--58.
 
-[^5]: I take 'human' here as the same kind of object as 'gender' or 'race': an entity that is not given, but produced through interactions. I'll remain agnostic here about what explains how these objects come about.
+[^5]: I take 'human' here as a similar kind of thing to 'gender' or 'race': something that has no given existence, but that is produced through interactions. I'll remain agnostic here about what explains how these objects come about.
 
 [^6]: Bruno Latour, *We Have Never Been Modern*, trans. Catherine Porter (Cambridge, MA: Harvard University Press, 1993).
 
@@ -94,7 +94,7 @@ By contrast, all activity involves relations. If living is the movement of bodil
 
 [^17]: Admittedly, I am stretching Ihde's argument beyond its original scope. I propose that while modifications of environments differ in certain aspects from technologies worn in and on the body, they each are examples of ways in which there is a technological modification of the body-world relation.
 
-[^18]: Lucas D. Introna, "Towards a [Post-human Intra-actional Account]{.nocase} of Sociomaterial Agency (and Morality)," in *The Moral Status of Technical Artefacts*, ed. Peter Kroes and Peter-Paul Verbeek, Philosophy of Engineering and Technology (Dordrecht: Springer, 2014), 31--53.
+[^18]: Lucas D. Introna, "Towards a Post-human Intra-actional Account of Sociomaterial Agency (and Morality)," in *The Moral Status of Technical Artefacts*, ed. Peter Kroes and Peter-Paul Verbeek, Philosophy of Engineering and Technology (Dordrecht: Springer, 2014), 31--53.
 
 [^19]: Stiegler, *Technics and Time*, 128.
 
@@ -111,4 +111,4 @@ By contrast, all activity involves relations. If living is the movement of bodil
 [^25]: This resembles an aspect of Bruno Latour's 'Modern Constitution': even though contemporary life unfolds among a tangle of overlapping and heterogeneous hybrids, modern thought sorts into the overarching categories 'Nature' and Society'. (*We Have Never Been Modern*)
 
 
-{{< embed-pdf url="./posts/attachments/jpmitchell-disability-technology-time.pdf" >}}
+<!-- {{< embed-pdf url="./posts/attachments/jpmitchell-disability-technology-time.pdf" >}} -->
