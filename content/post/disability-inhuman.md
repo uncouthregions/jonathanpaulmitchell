@@ -11,6 +11,4 @@ When presented with the term 'inhuman', I was drawn to consider how certain ways
 
 I address these topics in three stages. First, I briefly sketch how common understandings of disability might be thought of as 'dehumanising' for those who are apprehended in this way. Next, I outline why I think that appeals to the category of 'the human', and calls to be recognised as fully and equally human, are inapt as a response to such dehumanisation: this category is ill-suited to the apprehension and valuation of the existing heterogeneity of bodies and minds, precisely because it attains its consistency by forcibly excluding those anomalies it deems to be inhuman or ambiguously human. Finally, I point towards an alternative, affirmative sense of inhuman, and a disposition towards an inhuman future: an orientation that attempts to imagine and move towards a future that is not already circumscribed by existing humanist ideals.
 
-<embed src="/jpmitchell-disability-and-the-inhuman.pdf" type="application/pdf">
-
-<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="63l7gzmwegx5jg3"></script>
+{{< embed-pdf url="./post/jpmitchell-disability-inhuman.pdf" >}}
