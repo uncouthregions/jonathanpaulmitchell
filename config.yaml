@@ -65,7 +65,7 @@ params:
     imageTitle: Picture of Jonathan Mitchell
     buttons:
       - name: Updates
-        url: post
+        url: posts
       - name: About Me
         url: about
       - name: C.V.

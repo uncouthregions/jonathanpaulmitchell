@@ -1,31 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Dr Jonathan Paul Mitchell</title>
-    <link>https://jonathanpaulmitchell.com/</link>
-    <description>Recent content on Dr Jonathan Paul Mitchell</description>
+    <title>Posts on Dr Jonathan Paul Mitchell</title>
+    <link>https://jonathanpaulmitchell.com/posts/</link>
+    <description>Recent content in Posts on Dr Jonathan Paul Mitchell</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Dec 2021 12:25:28 +0100</lastBuildDate><atom:link href="https://jonathanpaulmitchell.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>https://jonathanpaulmitchell.com/contact/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://jonathanpaulmitchell.com/contact/</guid>
-      <description>Some ways to get in touch.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://jonathanpaulmitchell.com/about/</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://jonathanpaulmitchell.com/about/</guid>
-      <description>I was an Irish Research Council Government of Ireland Postgraduate Scholar in the School of Philosophy at University College Dublin.
-My research falls within the tradition of critical disability studies, and also draws upon feminist philosophy, twentieth-century continental philosophy, philosophy of biology, and philosophy of technology. It examines the relationship between disability and the human, and the role played by disability in practices that stabilise ideas of what is properly or essentially human.</description>
-    </item>
-    
-    
+    <lastBuildDate>Thu, 16 Dec 2021 12:25:28 +0100</lastBuildDate><atom:link href="https://jonathanpaulmitchell.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Disability, Personhood, and Vulnerability</title>
       <link>https://jonathanpaulmitchell.com/posts/disability-personhood-vulnerability/</link>
@@ -87,15 +67,6 @@ This paper is part of a workshop with Donald A. Landes on his book Merleau-Ponty
       <description>Presented at &amp;lsquo;Theorizing the Body in Health and Medicine&amp;rsquo;, Maastricht University, Maastricht, Netherlands, 25-26 November 2015.
 Not for citation.
 Introduction This paper largely concerns grounding concepts that inform medical and social theories of impairment. It discusses impairment in relation to normal function, including its identification as deviation from normal health. It then draws upon phenomenological concepts to develop an alternate account of embodiment, as always already dependent upon relations with things outside itself.</description>
-    </item>
-    
-    <item>
-      <title>Curriculum Vitae</title>
-      <link>https://jonathanpaulmitchell.com/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jonathanpaulmitchell.com/cv/</guid>
-      <description>Updated September 2022</description>
     </item>
     
     <item>
