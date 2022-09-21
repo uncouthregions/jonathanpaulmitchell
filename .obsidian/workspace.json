@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "24d3a6117e68c21c",
@@ -148,6 +147,7 @@
   },
   "active": "1c64810fe7b87705",
   "lastOpenFiles": [
+    "content/posts/Disability, Personhood, and Vulnerability.md",
     "content/posts/disability-technology-time.md",
     "content/posts/expression-structure-of-behavior.md",
     "content/post/normative-limits.md",
@@ -156,7 +156,6 @@
     "content/post/8th-amendment-disability-rights.md",
     "content/post/_index.md",
     "content/homepage/work.md",
-    "content/homepage/index.md",
-    "content/homepage/about.md"
+    "content/homepage/index.md"
   ]
 }
