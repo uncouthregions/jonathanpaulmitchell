@@ -9,4 +9,4 @@ My research falls within the tradition of critical disability studies, and also 
 
 As it stands, this website is mostly a place where I share drafts from conference and workshop presentations. Some drafts contain ideas that I was developing at the time, but do not wholeheartedly subscribe to any longer. Please consider more recent work to be most indicative of my current positions.
 
-You can find me on [ResearchGate](https://www.researchgate.net/profile/Jonathan-Mitchell-4) and [ORCID](https://orcid.org/0000-0003-4107-7453). 
+You can find me on [ResearchGate](https://www.researchgate.net/profile/Jonathan-Mitchell-4) and [ORCiD](https://orcid.org/0000-0003-4107-7453). 
