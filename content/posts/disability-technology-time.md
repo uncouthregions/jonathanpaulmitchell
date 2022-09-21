@@ -58,87 +58,51 @@ The contributions of technological auxiliaries can become invisible not only bec
 
 By contrast, all activity involves relations. If living is the movement of bodily self-transcendence---a body not something one has, but does---then whatever contributes to that activity is, for the duration of the relation, a part of that living being. This is just as true of intra-mundane components as of more conspicuous prosthetics. Indeed, I'm not sure there is any difference in kind between embodied technologies, and those that are not. Intra-mundane technologies form a persistent dimension of the activity of moving bodies. This means that for atypical bodies, one aspect of their being---that contributes to self-constitution or ontogenesis---is consistently unsympathetic. This ungrounds anticipation and attenuates or delimits potential. Importantly, since much of this occurs at a prepersonal level, it is felt more than known. It is the sense of felt possibilities relative to the body, but where only the body, and not its relations, are recognised as their source. It is a constant affective dampener on embodied potential. Moreover, since each interactant in an ensemble of relations affects the contribution of every other, this dampening can inflect how other relations manifest. Unsafe ground might interact with somatic dimensions (environs condition how phenotype manifests: what one can physically do, how much fatigue should be expected); with dispositions (how open one is to the unexpected, to risk); with discourses (how willing one is to accept diagnosis, or identify as disabled). Of course, these are all in constant, mutually-conditioning interaction. While I am cautiously optimistic about possibilities that technological developments afford to atypical bodies, much outstanding metaphysical baggage must get cleared out on the way, if this is not to impede our ability to imagine other ways of living. A central aspect of this stocktaking is a rejection of the spurious self-aggrandisement of the unattached and unimpeded human subject, in favour of a relational thinking that highlights not just the presence of enabling milieus, but how the shape of those milieus entails an unequal distribution of capacities for activity.
 
-```{=html}
-<!-- {{< embed-pdf url="./posts/attachments/jpmitchell-disability-technology-time.pdf" >}} -->
-```
-## Works Cited {#works-cited .unnumbered}
-
-::: {#refs .references .csl-bib-body .hanging-indent}
-::: {#ref-AristotlePhysics2008 .csl-entry}
-Aristotle (2008), *Physics*, Oxford World's Classics, tran. R. Waterfield, Oxford: Oxford University Press.
-:::
-
-::: {#ref-FeenbergTransformingTechnology2002 .csl-entry}
-Feenberg, A. (2002), *Transforming Technology: A Critical Theory Revisited*, Oxford: Oxford University Press.
-:::
-
-::: {#ref-HoelThinkingTechnology2015 .csl-entry}
-Hoel, A. S. and A. Carusi (2015), 'Thinking Technology with Merleau-Ponty', in R. Rosenberger and P.-P. Verbeek (eds), *Postphenomenological Investigations: Essays on Human-Technology Relations*, Postphenomenology and the Philosophy of Technology, 73--84, London: Lexington Books.
-:::
-
-::: {#ref-IhdeTechnologyLifeworld1990 .csl-entry}
-Ihde, D. (1990), *Technology and the Lifeworld: From Garden to Earth*, Bloomington and Indianapolis: Indiana University Press.
-:::
-
-::: {#ref-IntronaPosthumanIntraactional2014 .csl-entry}
-Introna, L. D. (2014), 'Towards a [Post-human Intra-actional Account]{.nocase} of Sociomaterial Agency (and Morality)', in P. Kroes and P.-P. Verbeek (eds), *The Moral Status of Technical Artefacts*, Philosophy of Engineering and Technology, 31--53, Dordrecht: Springer.
-:::
-
-::: {#ref-LatourWeHave1993 .csl-entry}
-Latour, B. (1993), *We Have Never Been Modern*, tran. C. Porter, Cambridge, MA: Harvard University Press.
-:::
-
-::: {#ref-LatourPandoraHope1999 .csl-entry}
-Latour, B. (1999), *Pandora's Hope: Essays on the Reality of Science Studies*, Cambridge, MA: Harvard University Press.
-:::
-
-::: {#ref-McCumberWhyTime2016 .csl-entry}
-McCumber, J. (2016), 'Why Is Time Different from Space?', in J. A. Bell, A. Cutrofello and P. M. Livingston (eds), *Beyond the Analytic-Continental Divide: Pluralist Philosophy in the Twenty-First Century*, London: Routledge.
-:::
-
-::: {#ref-Merleau-PontyPhenomenologyPerception2012 .csl-entry}
-Merleau-Ponty, M. (2012), *Phenomenology of Perception*, tran. D. Landes, London: Routledge.
-:::
-
-::: {#ref-MolBodyMultiple2002 .csl-entry}
-Mol, A. (2002), *The Body Multiple: Ontology in Medical Practice*, Durham: Duke University Press.
-:::
-
-::: {#ref-MoserDisabilityPromises2006 .csl-entry}
-Moser, I. (2006), '[Disability and the Promises of Technology: Technology, Subjectivity and Embodiment Within an Order of the Normal](https://doi.org/10.1080/13691180600751348)', *Information, Communication & Society*, 9 (3): 373--95.
-:::
-
-::: {#ref-ProteviLifeWar2014 .csl-entry}
-Protevi, J. (2014), *Life, War, Earth: Deleuze and the Sciences*, London: University of Minnesota Press.
-:::
-
-::: {#ref-RatcliffeWhatSense2014 .csl-entry}
-Ratcliffe, M., M. Ruddell and B. Smith (2014), 'What Is a \"Sense of Foreshortened Future?": A Phenomenological Study of Trauma, Trust, and Time', *Frontiers in Psychology*, 5: 1--11.
-:::
-
-::: {#ref-Romdenh-RomlucMerleauPontyPower2007 .csl-entry}
-Romdenh-Romluc, K. (2007), 'Merleau-Ponty and the Power to Reckon with the Possible', in T. Baldwin (ed), *Reading Merleau-Ponty*, 44--58, London: Routledge.
-:::
-
-::: {#ref-SaldanhaReontologisingRace2006 .csl-entry}
-Saldanha, A. (2006), 'Reontologising Race: The Machinic Geography of Phenotype', *Environment and Planning D*, 24 (1): 9--24.
-:::
-
-::: {#ref-StieglerTechnicsTime1998 .csl-entry}
-Stiegler, B. (1998), *Technics and Time: The Fault of Epimetheus*, tran. G. Beardsworth, Stanford: Stanford University Press.
-:::
-
-::: {#ref-ThriftRememberingTechnological2004 .csl-entry}
-Thrift, N. (2004), 'Remembering the Technological Unconscious by Foregrounding Knowledges of Position', *Environment and Planning D: Society and Space*, 22 (1): 175--90.
-:::
-
-::: {#ref-ZylinskaPlayingGod2010 .csl-entry}
-Zylinska, J. (2010), 'Playing God, Playing Adam: The Politics and Ethics of Enhancement', *Bioethical Inquiry*, 7 (2): 149--61.
-:::
-:::
-
 [^1]: I take 'human' here as a similar kind of thing to 'gender' or 'race': something that has no given existence, but that is produced through interactions. I'll remain agnostic here about what explains how these objects come about.
 
 [^2]: Admittedly, I am stretching Ihde's argument beyond its original scope. I propose that while modifications of environments differ in certain aspects from technologies worn in and on the body, they each are examples of ways in which there is a technological modification of the body-world relation.
 
 [^3]: This resembles an aspect of Bruno Latour's 'Modern Constitution': even though contemporary life unfolds among a tangle of overlapping and heterogeneous hybrids, modern thought sorts into the overarching categories 'Nature' and Society'. (*We Have Never Been Modern*)
+
+```{=html}
+<!-- {{< embed-pdf url="./posts/attachments/jpmitchell-disability-technology-time.pdf" >}} -->
+```
+
+
+## Works Cited {#works-cited .unnumbered}
+
+Aristotle (2008), *Physics*, Oxford World's Classics, tran. R. Waterfield, Oxford: Oxford University Press.
+
+Feenberg, A. (2002), *Transforming Technology: A Critical Theory Revisited*, Oxford: Oxford University Press.
+
+Hoel, A. S. and A. Carusi (2015), 'Thinking Technology with Merleau-Ponty', in R. Rosenberger and P.-P. Verbeek (eds), *Postphenomenological Investigations: Essays on Human-Technology Relations*, Postphenomenology and the Philosophy of Technology, 73--84, London: Lexington Books.
+
+Ihde, D. (1990), *Technology and the Lifeworld: From Garden to Earth*, Bloomington and Indianapolis: Indiana University Press.
+
+Introna, L. D. (2014), 'Towards a [Post-human Intra-actional Account]{.nocase} of Sociomaterial Agency (and Morality)', in P. Kroes and P.-P. Verbeek (eds), *The Moral Status of Technical Artefacts*, Philosophy of Engineering and Technology, 31--53, Dordrecht: Springer.
+
+Latour, B. (1993), *We Have Never Been Modern*, tran. C. Porter, Cambridge, MA: Harvard University Press.
+
+Latour, B. (1999), *Pandora's Hope: Essays on the Reality of Science Studies*, Cambridge, MA: Harvard University Press.
+
+McCumber, J. (2016), 'Why Is Time Different from Space?', in J. A. Bell, A. Cutrofello and P. M. Livingston (eds), *Beyond the Analytic-Continental Divide: Pluralist Philosophy in the Twenty-First Century*, London: Routledge.
+
+Merleau-Ponty, M. (2012), *Phenomenology of Perception*, tran. D. Landes, London: Routledge.
+
+Mol, A. (2002), *The Body Multiple: Ontology in Medical Practice*, Durham: Duke University Press.
+
+Moser, I. (2006), '[Disability and the Promises of Technology: Technology, Subjectivity and Embodiment Within an Order of the Normal](https://doi.org/10.1080/13691180600751348)', *Information, Communication & Society*, 9 (3): 373--95.
+
+Protevi, J. (2014), *Life, War, Earth: Deleuze and the Sciences*, London: University of Minnesota Press.
+
+Ratcliffe, M., M. Ruddell and B. Smith (2014), 'What Is a \"Sense of Foreshortened Future?": A Phenomenological Study of Trauma, Trust, and Time', *Frontiers in Psychology*, 5: 1--11.
+
+Romdenh-Romluc, K. (2007), 'Merleau-Ponty and the Power to Reckon with the Possible', in T. Baldwin (ed), *Reading Merleau-Ponty*, 44--58, London: Routledge.
+
+Saldanha, A. (2006), 'Reontologising Race: The Machinic Geography of Phenotype', *Environment and Planning D*, 24 (1): 9--24.
+
+Stiegler, B. (1998), *Technics and Time: The Fault of Epimetheus*, tran. G. Beardsworth, Stanford: Stanford University Press.
+
+Thrift, N. (2004), 'Remembering the Technological Unconscious by Foregrounding Knowledges of Position', *Environment and Planning D: Society and Space*, 22 (1): 175--90.
+
+Zylinska, J. (2010), 'Playing God, Playing Adam: The Politics and Ethics of Enhancement', *Bioethical Inquiry*, 7 (2): 149--61.
