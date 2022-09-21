@@ -3,7 +3,7 @@ author: Jonathan Paul Mitchell
 title: "Disability, Technology, Time: The Technological Unconscious as an Unsafe Ground for Bodily Activity"
 date: 2017-05-19T12:25:28+01:00
 date created: Friday, September 9th 2022, 12:25:28 pm
-date modified: Wednesday, September 21st 2022, 1:42:12 pm
+date modified: Wednesday, September 21st 2022, 1:44:32 pm
 ---
 
 *Presented at the Nordic Network Gender Body Health workshop 'Interrogating Prostheses', Stockholm University, Stockholm, Sweden, 15-16 May 2017. This is a work in progress and not for citation.*
@@ -82,7 +82,7 @@ Hoel, A. S. and A. Carusi (2015), 'Thinking Technology with Merleau-Ponty', in R
 
 Ihde, D. (1990), *Technology and the Lifeworld: From Garden to Earth*, Bloomington and Indianapolis: Indiana University Press.
 
-Introna, L. D. (2014), 'Towards a [Post-human Intra-actional Account]{.nocase} of Sociomaterial Agency (and Morality)', in P. Kroes and P.-P. Verbeek (eds), *The Moral Status of Technical Artefacts*, Philosophy of Engineering and Technology, 31--53, Dordrecht: Springer.
+Introna, L. D. (2014), 'Towards a Post-human Intra-actional Account of Sociomaterial Agency (and Morality)', in P. Kroes and P.-P. Verbeek (eds), *The Moral Status of Technical Artefacts*, Philosophy of Engineering and Technology, 31--53, Dordrecht: Springer.
 
 Latour, B. (1993), *We Have Never Been Modern*, tran. C. Porter, Cambridge, MA: Harvard University Press.
 
@@ -94,7 +94,7 @@ Merleau-Ponty, M. (2012), *Phenomenology of Perception*, tran. D. Landes, London
 
 Mol, A. (2002), *The Body Multiple: Ontology in Medical Practice*, Durham: Duke University Press.
 
-Moser, I. (2006), '[Disability and the Promises of Technology: Technology, Subjectivity and Embodiment Within an Order of the Normal](https://doi.org/10.1080/13691180600751348)', *Information, Communication & Society*, 9 (3): 373--95.
+Moser, I. (2006), 'Disability and the Promises of Technology: Technology, Subjectivity and Embodiment Within an Order of the Normal', *Information, Communication & Society*, 9 (3): 373--95.
 
 Protevi, J. (2014), *Life, War, Earth: Deleuze and the Sciences*, London: University of Minnesota Press.
 
