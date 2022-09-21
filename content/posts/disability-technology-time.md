@@ -62,7 +62,7 @@ By contrast, all activity involves relations. If living is the movement of bodil
 
 [^2]: Admittedly, I am stretching Ihde's argument beyond its original scope. I propose that while modifications of environments differ in certain aspects from technologies worn in and on the body, they each are examples of ways in which there is a technological modification of the body-world relation.
 
-[^3]: This resembles an aspect of Bruno Latour's 'Modern Constitution': even though contemporary life unfolds among a tangle of overlapping and heterogeneous hybrids, modern thought sorts into the overarching categories 'Nature' and Society'. (*We Have Never Been Modern*)
+[^3]: This resembles an aspect of Latour's 'Modern Constitution' (1993): even though contemporary life unfolds among a tangle of overlapping and heterogeneous hybrids, modern thought sorts into the overarching categories 'Nature' and Society'.
 
 ```{=html}
 <!-- {{< embed-pdf url="./posts/attachments/jpmitchell-disability-technology-time.pdf" >}} -->
