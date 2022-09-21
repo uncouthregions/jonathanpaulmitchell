@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/expression-structure-of-behavior.md",
+                "file": "content/posts/disability-technology-time.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "24d3a6117e68c21c",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/expression-structure-of-behavior.md",
+                "file": "content/posts/disability-technology-time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/expression-structure-of-behavior.md",
+                "file": "content/posts/disability-technology-time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/expression-structure-of-behavior.md"
+                "file": "content/posts/disability-technology-time.md"
               }
             }
           },
