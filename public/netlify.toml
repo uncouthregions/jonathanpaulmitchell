@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/posts/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
