@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/disability-technology-time.md",
+                "file": "content/posts/disability-personhood-vulnerability.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/disability-technology-time.md",
+                "file": "content/posts/disability-personhood-vulnerability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/disability-technology-time.md",
+                "file": "content/posts/disability-personhood-vulnerability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/disability-technology-time.md"
+                "file": "content/posts/disability-personhood-vulnerability.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "1c64810fe7b87705",
   "lastOpenFiles": [
+    "content/posts/disability-technology-time.md",
     "content/posts/expression-structure-of-behavior.md",
     "content/post/normative-limits.md",
     "content/post/expression-structure-of-behavior.mda.md",
@@ -156,7 +157,6 @@
     "content/post/_index.md",
     "content/homepage/work.md",
     "content/homepage/index.md",
-    "content/homepage/about.md",
-    "archetypes/default.md"
+    "content/homepage/about.md"
   ]
 }
