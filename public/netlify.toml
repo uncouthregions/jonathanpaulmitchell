@@ -2,3 +2,10 @@
   for = "/posts/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
+
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "YOUR_HUGO_VERSION"
