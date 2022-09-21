@@ -3,7 +3,7 @@ title: About Me
 date: "2022-09-09"
 author: Jonathan Paul Mitchell
 ---
-I was an Irish Research Council Government of Ireland Postgraduate Scholar in the School of Philosophy at University College Dublin.
+I was an [Irish Research Council Government of Ireland Postgraduate Scholar](https://research.ie/) in the [School of Philosophy](https://www.ucd.ie/philosophy/) at University College Dublin.
 
 My research falls within the tradition of critical disability studies, and also draws upon feminist philosophy, twentieth-century continental philosophy, biophilosophy, and philosophy of technology. It examines the relationship between disability and the human, and the role played by disability in practices that stabilise ideas of what is properly or essentially human.
 
