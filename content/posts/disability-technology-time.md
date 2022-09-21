@@ -3,7 +3,7 @@ author: Jonathan Paul Mitchell
 title: "Disability, Technology, Time: The Technological Unconscious as an Unsafe Ground for Bodily Activity"
 date: 2017-05-19T12:25:28+01:00
 date created: Friday, September 9th 2022, 12:25:28 pm
-date modified: Wednesday, September 21st 2022, 1:44:32 pm
+date modified: Wednesday, September 21st 2022, 1:47:59 pm
 ---
 
 *Presented at the Nordic Network Gender Body Health workshop 'Interrogating Prostheses', Stockholm University, Stockholm, Sweden, 15-16 May 2017. This is a work in progress and not for citation.*
@@ -64,7 +64,7 @@ The contributions of technological auxiliaries can become invisible not only bec
 
 By contrast, all activity involves relations. If living is the movement of bodily self-transcendence---a body not something one has, but does---then whatever contributes to that activity is, for the duration of the relation, a part of that living being. This is just as true of intra-mundane components as of more conspicuous prosthetics. Indeed, I'm not sure there is any difference in kind between embodied technologies, and those that are not. Intra-mundane technologies form a persistent dimension of the activity of moving bodies. This means that for atypical bodies, one aspect of their being---that contributes to self-constitution or ontogenesis---is consistently unsympathetic. This ungrounds anticipation and attenuates or delimits potential. Importantly, since much of this occurs at a prepersonal level, it is felt more than known. It is the sense of felt possibilities relative to the body, but where only the body, and not its relations, are recognised as their source. It is a constant affective dampener on embodied potential. Moreover, since each interactant in an ensemble of relations affects the contribution of every other, this dampening can inflect how other relations manifest. Unsafe ground might interact with somatic dimensions (environs condition how phenotype manifests: what one can physically do, how much fatigue should be expected); with dispositions (how open one is to the unexpected, to risk); with discourses (how willing one is to accept diagnosis, or identify as disabled). Of course, these are all in constant, mutually-conditioning interaction. While I am cautiously optimistic about possibilities that technological developments afford to atypical bodies, much outstanding metaphysical baggage must get cleared out on the way, if this is not to impede our ability to imagine other ways of living. A central aspect of this stocktaking is a rejection of the spurious self-aggrandisement of the unattached and unimpeded human subject, in favour of a relational thinking that highlights not just the presence of enabling milieus, but how the shape of those milieus entails an unequal distribution of capacities for activity.
 
-[^1]: I take 'human' here as a similar kind of thing to 'gender' or 'race': something that has no given existence, but that is produced through interactions. I'll remain agnostic here about what explains how these objects come about.
+[^1]: I take 'human' here as a similar kind of thing to 'gender' or 'race': something that has no absolute and transcendent existence, but that is produced through interactions. This by no means makes the human--or indeed disability, gender, or race---unreal or inconsequential. Their reality is, however, not something that resides in the table of nature. I'll remain agnostic here about the mechanics of how these objects come about.
 
 [^2]: Admittedly, I am stretching Ihde's argument beyond its original scope. I propose that while modifications of environments differ in certain aspects from technologies worn in and on the body, they each are examples of ways in which there is a technological modification of the body-world relation.
 
@@ -72,7 +72,7 @@ By contrast, all activity involves relations. If living is the movement of bodil
 
 <!-- {{< embed-pdf url="./posts/attachments/jpmitchell-disability-technology-time.pdf" >}} -->
 
-## Works Cited {#works-cited .unnumbered}
+## Works Cited
 
 Aristotle (2008), *Physics*, Oxford World's Classics, tran. R. Waterfield, Oxford: Oxford University Press.
 
