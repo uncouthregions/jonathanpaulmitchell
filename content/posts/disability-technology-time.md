@@ -1,8 +1,9 @@
 ---
 author: Jonathan Paul Mitchell
-title: Disability, Technology, Time
+title: "Disability, Technology, Time: The Technological Unconscious as an Unsafe Ground for Bodily Activity"
+date: 2017-05-19T12:25:28+01:00
 date created: Friday, September 9th 2022, 12:25:28 pm
-date modified: Wednesday, September 21st 2022, 1:38:18 pm
+date modified: Wednesday, September 21st 2022, 1:42:12 pm
 ---
 
 *Presented at the Nordic Network Gender Body Health workshop 'Interrogating Prostheses', Stockholm University, Stockholm, Sweden, 15-16 May 2017. This is a work in progress and not for citation.*

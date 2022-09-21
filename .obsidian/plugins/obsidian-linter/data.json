@@ -22,7 +22,7 @@
     },
     "Insert YAML attributes": {
       "Inserts the given YAML attributes into the YAML frontmatter. Put each attribute on a single line.": false,
-      "Text to insert": "author:\ndate:"
+      "Text to insert": "author\ndate"
     },
     "Move Tags to Yaml": {
       "Move all tags to Yaml frontmatter of the document.": false,
@@ -48,7 +48,7 @@
       "Format": "dddd, MMMM Do YYYY, h:mm:ss a"
     },
     "YAML Title": {
-      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": true,
+      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": false,
       "Title Key": "title"
     },
     "YAML Title Alias": {
