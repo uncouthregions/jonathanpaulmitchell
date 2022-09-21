@@ -64,10 +64,7 @@ By contrast, all activity involves relations. If living is the movement of bodil
 
 [^3]: This resembles an aspect of Latour's 'Modern Constitution' (1993): even though contemporary life unfolds among a tangle of overlapping and heterogeneous hybrids, modern thought sorts into the overarching categories 'Nature' and Society'.
 
-```{=html}
 <!-- {{< embed-pdf url="./posts/attachments/jpmitchell-disability-technology-time.pdf" >}} -->
-```
-
 
 ## Works Cited {#works-cited .unnumbered}
 
