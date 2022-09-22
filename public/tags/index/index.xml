@@ -2,16 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Dr Jonathan Paul Mitchell</title>
-    <link>https:/jonathanpaulmitchell.com/tags/index/</link>
+    <link>https://jonathanpaulmitchell.com/tags/index/</link>
     <description>Recent content in index on Dr Jonathan Paul Mitchell</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https:/jonathanpaulmitchell.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <copyright>© Athul</copyright><atom:link href="https://jonathanpaulmitchell.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https:/jonathanpaulmitchell.com/posts/</link>
+      <link>https://jonathanpaulmitchell.com/posts/</link>
       <pubDate>Thu, 16 Dec 2021 12:25:28 +0100</pubDate>
       
-      <guid>https:/jonathanpaulmitchell.com/posts/</guid>
+      <guid>https://jonathanpaulmitchell.com/posts/</guid>
       <description></description>
     </item>
     

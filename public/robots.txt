@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://www.jonathanpaulmitchell.com/sitemap.xml
