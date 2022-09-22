@@ -4,6 +4,8 @@ theme = "archie"
 title = "Dr Jonathan Paul Mitchell"
 copyright = "© Athul"
 paginate = 5 # articles per page
+dateFormat = "January 2, 2006"
+since = 2019
 
 # Code Highlight
 pygmentsstyle = "monokai"
