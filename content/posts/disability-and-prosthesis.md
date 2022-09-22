@@ -4,7 +4,7 @@ author: Jonathan Paul Mitchell
 date created: September 20th 2016 5:20 pm 
 date modified: Sunday, September 11th 2022 5:21 pm
 date: 2016-09-02T12:25:28+01:00
-tldr: (Technologies are not mere external utilities, but are profoundly involved within human development. Explanation of such involvement takes various forms. Like natural and social artefacts, technologies have a historical development, and can acquire metaphysical baggage (Hui 2016). One way to conceptualise technology is in terms of prosthesis: a tool---from a flint or a hammer, to language---that extends or enables capacities. I'll discuss prosthesis as a human-technology relation, and consider three such conceptualisations---instrumentalism, Bernard Stiegler's originary technicity, and Gilbert Simondon's concretisation---and discuss their relevance to and potential for thinking about disability.)
+tldr:
 ---
 
 *Presented at Nordic Network Gender Body Health conference 'Disability, Arts and Health', Bergen University, Bergen, 1-2 September 2016.*
