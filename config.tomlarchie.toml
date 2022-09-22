@@ -1,0 +1,67 @@
+baseURL=https://jonathanpaulmitchell.com/
+languageCode = "en-gb"
+theme = "archie"
+title = "Dr Jonathan Paul Mitchell"
+copyright = "© Athul"
+paginate = 5 # articles per page
+
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+# [minify]
+#   disableXML = true
+#   minifyOutput = true
+
+[params]
+    mode="auto" # color-mode → light,dark,toggle or auto
+    useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+    
+    title = "Dr Jonathan Paul Mitchell"
+    description = "The Website of Dr Jonathan Paul Mitchell"
+    subtitle = "The Website of Dr Jonathan Paul Mitchell"
+    author = "Jonathan Paul Mitchell"
+
+    # Main menu Items
+
+    [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+    [[menu.main]]
+    name = "Updates"
+    url = "/posts"
+    weight = 2
+
+    [[menu.main]]
+    name = "About Me"
+    url = "/about"
+    weight = 3
+
+    [[menu.main]]
+    name = "Curriculum Vitae"
+    url = "/cv"
+    weight = 4
+
+    # Social Tags
+    [[params.social]]
+    # name = "GitHub"
+    # icon = "github"
+    # url = "https://github.com/athul/archie"
+
+    [[params.social]]
+    name = "Twitter"
+    icon = "twitter"
+    url = "https://twitter.com/UncouthRegions/"
+
+    # [[params.social]]
+    # name = "GitLab"
+    # icon = "gitlab"
+    # url = "https://gitlab.com/athul/"
