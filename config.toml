@@ -41,15 +41,15 @@ buildExpired = false
     url = "/posts"
     weight = 2
 
-    # [[menu.main]]
-    # name = "About Me"
-    # url = "/about"
-    # weight = 3
+    [[menu.main]]
+    name = "About Me"
+    url = "/about"
+    weight = 3
 
     [[menu.main]]
     name = "Curriculum Vitae"
     url = "/cv"
-    weight = 3
+    weight = 4
 
     # Social Tags
     [[params.social]]
