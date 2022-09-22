@@ -1,5 +1,6 @@
 ---
 title: "Disability and The Inhuman"
+author: Jonathan Paul Mitchell
 date: 2018-06-13T12:25:28+01:00
 draft: false
 ---
