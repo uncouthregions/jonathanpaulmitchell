@@ -2,7 +2,7 @@ baseURL = "https://jonathanpaulmitchell.com/"
 languageCode = "en-gb"
 theme = "archie"
 title = "Dr Jonathan Paul Mitchell"
-copyright = "© Athul"
+copyright = "© Dr J. P. Mitchell"
 paginate = 5 # articles per page
 dateFormat = "January 2, 2006"
 since = 2019
@@ -26,7 +26,7 @@ buildExpired = false
     useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
     
     title = "Dr Jonathan Paul Mitchell"
-    description = "The Website of Dr Jonathan Paul Mitchell"
+    # description = "The Website of Dr Jonathan Paul Mitchell"
     subtitle = "The Website of Dr Jonathan Paul Mitchell"
     author = "Jonathan Paul Mitchell"
 
