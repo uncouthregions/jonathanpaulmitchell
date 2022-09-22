@@ -21,7 +21,7 @@ buildExpired = false
 #   minifyOutput = true
 
 [params]
-    mode="auto" # color-mode → light,dark,toggle or auto
+    mode="toggle" # color-mode → light,dark,toggle or auto
     useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
     
     title = "Dr Jonathan Paul Mitchell"
@@ -41,15 +41,15 @@ buildExpired = false
     url = "/posts"
     weight = 2
 
-    [[menu.main]]
-    name = "About Me"
-    url = "/about"
-    weight = 3
+    # [[menu.main]]
+    # name = "About Me"
+    # url = "/about"
+    # weight = 3
 
     [[menu.main]]
     name = "Curriculum Vitae"
     url = "/cv"
-    weight = 4
+    weight = 3
 
     # Social Tags
     [[params.social]]
