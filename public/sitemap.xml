@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jonathanpaulmitchell.com/contact/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jonathanpaulmitchell.com/</loc>
     <lastmod>2022-09-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -41,8 +38,6 @@
     <loc>https://jonathanpaulmitchell.com/categories/</loc>
   </url><url>
     <loc>https://jonathanpaulmitchell.com/cv/</loc>
-  </url><url>
-    <loc>https://jonathanpaulmitchell.com/tags/index/</loc>
   </url><url>
     <loc>https://jonathanpaulmitchell.com/tags/</loc>
   </url>
