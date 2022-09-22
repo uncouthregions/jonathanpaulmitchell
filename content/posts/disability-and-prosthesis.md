@@ -3,7 +3,7 @@ title: Disability and Prosthesis Beyond Utility and Function
 author: Jonathan Paul Mitchell
 date created: September 20th 2016 5:20 pm 
 date modified: Sunday, September 11th 2022 5:21 pm
-date: 2016-09-2T12:25:28+01:00
+date: 2016-09-02T12:25:28+01:00
 ---
 
 *Presented at Nordic Network Gender Body Health conference 'Disability, Arts and Health', Bergen University, Bergen, 1-2 September 2016.*
