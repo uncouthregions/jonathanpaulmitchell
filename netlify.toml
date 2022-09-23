@@ -6,6 +6,6 @@
   HUGO_VERSION = "0.83.1"
 
 [[headers]]
-  for = "/posts/*"
+  for = "/posts/attachments/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
