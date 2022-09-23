@@ -1,5 +1,6 @@
 ---
 title: Curriculum Vitae
+date: 2022-05-28
 description: Updated September 2022
 ---
 
