@@ -53,7 +53,7 @@ buildExpired = false
     # icon = "github"
     # url = "https://github.com/uncouthregions/"
 
-    [[params.social]]
+    [[Params.Social]]
     name = "Twitter"
     icon = "twitter"
     url = "https://twitter.com/UncouthRegions/"
