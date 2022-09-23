@@ -5,7 +5,12 @@
 [context.production.environment]
   HUGO_VERSION = "0.83.1"
 
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
 [[headers]]
-  for = "/posts/attachments/*"
-  [headers.values]
+  for = "/*"
+    [headers.values]
     Access-Control-Allow-Origin = "*"
