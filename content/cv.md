@@ -5,18 +5,18 @@ description: Updated September 2022
 ---
 
 ## Education
-| Degree                                                                             |          Year |
+| Degree                                                                             |          Year(s) |
 |:---------------------------------------------------------------------------------- | -----------------:|
 | *University College Dublin*                                                        |               |
 | **PhD in Philosophy (awarded with minor typographical corrections)**               | **2013--2021** |
-| Thesis: “Distributing Disability: Embodied Difference, Technology, and the Human”. |               |
-| **MA in Philosophy (First Class)**                                                 | **2011–-2012** |
-| Thesis: “Rebellious Matter: Towards an Ontology of Embodied Difference”.           |               |
+| Thesis Title: “Distributing Disability: Embodied Difference, Technology, and the Human”. |               |
+| **MA in Philosophy (First Class)**                                                 | **2011--2012** |
+| Thesis Title: “Rebellious Matter: Towards an Ontology of Embodied Difference”.           |               |
 | *Queen’s University Belfast*                                                       |               |
 | **BA (Hons) in Sociology and Politics (First Class)**                              | **2008--2011** |
-| Dissertation: “Live Flesh: Materiality, Subjectivity, Agency”.                     |               |
+| Dissertation Title: “Live Flesh: Materiality, Subjectivity, Agency”.                     |               |
 ## Publications
-| Publication                                                                                                                                                                                                                                                      |     Year |
+| Publication                                                                                                                                                                                                                                                      |     Year(s) |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------:|
 | Chapter co-authored with Luna Dolezal and Cathrin Fisher titled 'Disability' in collection *Political Phenomenology* (forthcoming) | **2023** |
 | Käll, Lise Folkmarson, Jonathan Paul Mitchell & Tobias Skiveren. [“Editors' Introduction: Disability and Protheses”](https://tidsskrift.dk/KKF/article/view/127868). *Women, Gender & Research* 31, no. 2 (2021): 5-9.                                                                                                     | **2021** |
@@ -25,13 +25,13 @@ description: Updated September 2022
 | Mitchell, Jonathan. [“‘Race’, Nation and Belonging in Ireland”](https://arrow.tudublin.ie/ijass/vol11/iss1/1/). *Irish Journal of Applied Social Studies* 11, no. 1 (2011): 4-13.                                                                                                                                 | **2011** |
 
 ## Forthcoming Activities
-| Activity                                                                                                              |          Year |
+| Activity                                                                                                              |          Year(s) |
 | :--------------------------------------------------------------------------------------------------------------------- | -------------:|
 | Paper presentation at annual conference of the *International Merleau-Ponty Circle*. | **2022** |
 | Invited speaker: Workshop on philosophy of disability, University College Dublin. Date TBA.                            |      **2022** |
 
 ## Conference & Workshop Presentations
-| Title & Event                                                                                                                |     Year |
+| Title & Event                                                                                                                |     Year(s) |
 | :---------------------------------------------------------------------------------------------------------------------------- | --------:|
 | **Disability, Personhood, and Vulnerability**                                                                                | **2021** |
 | *Invited Speaker Seminar Series, Nordic Network Gender Body Health, 16 December 2021.*                                       |          |
@@ -55,9 +55,9 @@ description: Updated September 2022
 | *‘Conceptualizing Disability as a Public Health Issue’, Fondation Brocher, Geneva, Switzerland, 26 January 2015.*            |          |
 
 ## Teaching Experience
-| Position                                                                                             |     Year |
+| Position                                                                                             |     Year(s) |
 | :---------------------------------------------------------------------------------------------------- | --------:|
-| **Part-Time (HPAL) Lecturer (University College Dublin) Jan.–-May 2019**                              |          |
+| **Part-Time (HPAL) Lecturer (University College Dublin) January--May 2019**                              |          |
 | Lecture on Phenomenology and Disability as part of Level 2 module ‘Phenomenology and Existentialism’ | **2019** |
 | **Tutor (University College Dublin)**                                                                |          |
 | ‘Philosophy and Literature’ (Level 2)                                                                | **2019** |
@@ -71,7 +71,7 @@ description: Updated September 2022
 | *Facilitating tutorials, meeting students, grading assignments.*                                     |          |
 
 ## Awards
-| Award                                                                                               |          Year |
+| Award                                                                                               |          Year(s) |
 | :--------------------------------------------------------------------------------------------------- | -------------:|
 | Irish Research Council, Government of Ireland Postgraduate Scholarship                              | **2013--2016** |
 | ESB–Universities Ireland, North/South Postgraduate Scholarship                                      | **2011--2012** |
@@ -85,7 +85,7 @@ description: Updated September 2022
 | Foundation Scholarship                                                                              |      **2009** |
 
 ## Other Academic Experience
-| Activity                                                                                                                                                    |          Year |
+| Activity                                                                                                                                                    |          Year(s) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------:|
 | Co-organiser: *Imaginining Technologies for Disability Futures* panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter | **2022** |
 | Co-editor: special issue of *Women, Gender & Research*, ‘Interrogating Disability and Prostheses’.                                                            | **2019–-2021** |
@@ -103,7 +103,7 @@ description: Updated September 2022
 | French | Speak and read with basic competence (Common European Framework A2.8) |
 
 ## Memberships
-| Organisation | Years |
+| Organisation | Year(s) |
 |:-------------------------------|----------:|
 | [Minorities and Philosophy (Dublin Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/) | **2021--**|
 | [Society for Philosophy and Disability](http://societyforphilosophyanddisability.org/)  | **2020--** |
@@ -111,7 +111,7 @@ description: Updated September 2022
 | [Disabled Academic Collective](https://disabledacademicco.wixsite.com/mysite/) | **2022--** |
 
 ## Related Experience
-| Role                                            |          Year |
+| Role                                            |          Year(s) |
 |:----------------------------------------------- | -------------:|
 | *Queen’s University Belfast*                    |               |
 | Student Union Councillor                        | **2010--2011** |
