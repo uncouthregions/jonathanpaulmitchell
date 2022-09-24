@@ -8,12 +8,12 @@ description: Updated September 2022
 | Degree                                                                             |          Year |
 |:---------------------------------------------------------------------------------- | -----------------:|
 | *University College Dublin*                                                        |               |
-| **PhD in Philosophy (awarded with minor typographical corrections)**               | **2013–2021** |
+| **PhD in Philosophy (awarded with minor typographical corrections)**               | **2013--2021** |
 | Thesis: “Distributing Disability: Embodied Difference, Technology, and the Human”. |               |
-| **MA in Philosophy (First Class)**                                                 | **2011–2012** |
+| **MA in Philosophy (First Class)**                                                 | **2011–-2012** |
 | Thesis: “Rebellious Matter: Towards an Ontology of Embodied Difference”.           |               |
 | *Queen’s University Belfast*                                                       |               |
-| **BA (Hons) in Sociology and Politics (First Class)**                              | **2008-2011** |
+| **BA (Hons) in Sociology and Politics (First Class)**                              | **2008--2011** |
 | Dissertation: “Live Flesh: Materiality, Subjectivity, Agency”.                     |               |
 ## Publications
 | Publication                                                                                                                                                                                                                                                      |     Year |
@@ -57,7 +57,7 @@ description: Updated September 2022
 ## Teaching Experience
 | Position                                                                                             |     Year |
 | :---------------------------------------------------------------------------------------------------- | --------:|
-| **Part-Time (HPAL) Lecturer (University College Dublin) Jan.–May 2019**                              |          |
+| **Part-Time (HPAL) Lecturer (University College Dublin) Jan.–-May 2019**                              |          |
 | Lecture on Phenomenology and Disability as part of Level 2 module ‘Phenomenology and Existentialism’ | **2019** |
 | **Tutor (University College Dublin)**                                                                |          |
 | ‘Philosophy and Literature’ (Level 2)                                                                | **2019** |
@@ -73,8 +73,8 @@ description: Updated September 2022
 ## Awards
 | Award                                                                                               |          Year |
 | :--------------------------------------------------------------------------------------------------- | -------------:|
-| Irish Research Council, Government of Ireland Postgraduate Scholarship                              | **2013-2016** |
-| ESB–Universities Ireland, North/South Postgraduate Scholarship                                      | **2011-2012** |
+| Irish Research Council, Government of Ireland Postgraduate Scholarship                              | **2013--2016** |
+| ESB–Universities Ireland, North/South Postgraduate Scholarship                                      | **2011--2012** |
 | Undergraduate Awards, ‘Social Studies' category: Overall Winner                                     |      **2011** |
 | Undergraduate Awards, 'Politics and International Relations' category: Highly Commended (runner-up) |      **2011** |
 | *Queen’s University Belfast, School of Sociology, Social Policy and Social Work*                    |               |
@@ -88,7 +88,7 @@ description: Updated September 2022
 | Activity                                                                                                                                                    |          Year |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------:|
 | Co-organiser: *Imaginining Technologies for Disability Futures* panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter | **2022** |
-| Co-editor: special issue of *Women, Gender & Research*, ‘Interrogating Disability and Prostheses’.                                                            | **2019–2021** |
+| Co-editor: special issue of *Women, Gender & Research*, ‘Interrogating Disability and Prostheses’.                                                            | **2019–-2021** |
 | Conference assistant: *The Inhuman Gaze*, Centre Culturel Irlandais, Paris.                                                                                   |      **2018** |
 | Peer reviewer: *Hypatia*.                                                                                                                                     |      **2016** |
 | Peer reviewer: *Somatechnics*.                                                                                                                                |      **2014** |
@@ -114,6 +114,6 @@ description: Updated September 2022
 | Role                                            |          Year |
 |:----------------------------------------------- | -------------:|
 | *Queen’s University Belfast*                    |               |
-| Student Union Councillor                        | **2010-2011** |
-| Community, Equality, Diversity Committee Member | **2009-2011** |
-| Student-Staff Consultative Committee Member     | **2009-2010** |
+| Student Union Councillor                        | **2010--2011** |
+| Community, Equality, Diversity Committee Member | **2009--2011** |
+| Student-Staff Consultative Committee Member     | **2009--2010** |
