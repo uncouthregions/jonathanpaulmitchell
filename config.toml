@@ -24,6 +24,7 @@ buildExpired = false
     description = "Jonathan Paul Mitchell's academic homepage"
     # subtitle = "The Website of Dr Jonathan Paul Mitchell"
     author = "Jonathan"
+    customcss = ["css/override.css"]
 
     # Main menu Items
 
