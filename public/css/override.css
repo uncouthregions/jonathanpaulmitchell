@@ -1,0 +1,18 @@
+/* Markdown */
+html {
+  font-size: 16px;
+}
+/* table */
+table {
+  font-family: 'Fira Sans', sans-serif;
+  width: 100%;
+}
+
+table th{
+   background-color: whitesmoke;
+}
+
+table td{
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5;
+}
