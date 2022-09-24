@@ -17,8 +17,8 @@ buildFuture = false
 buildExpired = false
 
 [params]
-    customcss = ["css/mods.css"]
-    mode="toggle" # color-mode → light, dark, toggle, or auto
+    customcss = ["css/mod.css"]
+    mode="auto" # color-mode → light, dark, toggle, or auto
     useCDN=true # don't use CDNs for fonts and icons, instead serve them locally.
     title = "Dr Jonathan Paul Mitchell"
     description = "Jonathan Paul Mitchell's academic homepage"
@@ -26,7 +26,6 @@ buildExpired = false
     author = "Jonathan"
 
     # Main menu Items
-
     [[menu.main]]
     name = "Home"
     url = "/"

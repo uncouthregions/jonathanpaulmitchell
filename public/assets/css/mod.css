@@ -1,0 +1,26 @@
+/* Markdown */
+:root{
+--maincolor: #C92812;
+--bordercl:rebeccapurple;
+--callouctcolor:dodgerblue;
+--hovercolor:#90B564;
+--darkMaincolor: #50fa7b;
+}
+html {
+  font-size: 18px;
+}
+
+/* table */
+table {
+  font-family: 'Fira Sans', sans-serif;
+  width: 100%;
+}
+
+table th{
+   background-color: #f5f5f5;
+}
+
+table td{
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5;
+}
