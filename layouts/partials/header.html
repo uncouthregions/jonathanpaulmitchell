@@ -38,7 +38,8 @@
 
 	{{ $style := resources.Get "css/main.css" | fingerprint }}
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ $style.Permalink }}" />
-    {{ $override := resources.Get "css/override.css" }}
+    
+	{{ $override := resources.Get "css/override.css" }}
     <link href="{{ $override.Permalink }}" rel="stylesheet"/>
 
 	{{- if or (eq .Site.Params.mode "auto") (eq .Site.Params.mode "dark") (eq .Site.Params.mode "toggle") -}}
