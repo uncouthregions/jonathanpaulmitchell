@@ -17,14 +17,13 @@ buildFuture = false
 buildExpired = false
 
 [params]
-    mode="auto" # color-mode → light,dark,toggle or auto
+    mode = "toggle" # color-mode → light,dark,toggle or auto
     useCDN=true # don't use CDNs for fonts and icons, instead serve them locally.
-    
+    customcss = ["css/mods.css"]
     title = "Dr Jonathan Paul Mitchell"
     description = "Jonathan Paul Mitchell's academic homepage"
     # subtitle = "The Website of Dr Jonathan Paul Mitchell"
     author = "Jonathan"
-    customcss = ["css/override.css"]
 
     # Main menu Items
 
@@ -50,9 +49,9 @@ buildExpired = false
 
     # Social Tags
     [[params.social]]
-    # name = "GitHub"
-    # icon = "github"
-    # url = "https://github.com/uncouthregions/"
+    name = "GitHub"
+    icon = "github"
+    url = "https://github.com/uncouthregions/"
 
     [[Params.Social]]
     name = "Twitter"
