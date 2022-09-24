@@ -19,7 +19,7 @@ buildExpired = false
 [params]
     mode="toggle" # color-mode → light, dark, toggle, or auto
     useCDN=true # don't use CDNs for fonts and icons, instead serve them locally.
-    customcss = ["css/mods.css"]
+    customcss = ["css/mod.css"]
     title = "Dr Jonathan Paul Mitchell"
     description = "Jonathan Paul Mitchell's academic homepage"
     # subtitle = "The Website of Dr Jonathan Paul Mitchell"
