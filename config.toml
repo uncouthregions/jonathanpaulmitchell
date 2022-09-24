@@ -17,7 +17,7 @@ buildFuture = false
 buildExpired = false
 
 [params]
-    mode = "toggle" # color-mode → light,dark,toggle or auto
+    mode="toggle" # color-mode → light, dark, toggle, or auto
     useCDN=true # don't use CDNs for fonts and icons, instead serve them locally.
     customcss = ["css/mods.css"]
     title = "Dr Jonathan Paul Mitchell"
@@ -48,7 +48,7 @@ buildExpired = false
     weight = 3
 
     # Social Tags
-    [[params.social]]
+    [[Params.Social]]
     name = "GitHub"
     icon = "github"
     url = "https://github.com/uncouthregions/"
