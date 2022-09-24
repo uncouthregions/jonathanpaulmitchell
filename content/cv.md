@@ -15,11 +15,10 @@ description: Updated September 2022
 | *Queen’s University Belfast*                                                       |               |
 | **BA (Hons) in Sociology and Politics (First Class)**                              | **2008-2011** |
 | Dissertation: “Live Flesh: Materiality, Subjectivity, Agency”.                     |               |
-
 ## Publications
 | Publication                                                                                                                                                                                                                                                      |     Year |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------:|
-| Chapter co-authored with Luna Dolezal and Cat Fisher on 'Disability' in collection *Political Phenomenology* (forthcoming) | **2023** |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------:|
+| Chapter co-authored with Luna Dolezal and Cathrin Fisher titled 'Disability' in collection *Political Phenomenology* (forthcoming) | **2023** |
 | Käll, Lise Folkmarson, Jonathan Paul Mitchell & Tobias Skiveren. [“Editors' Introduction: Disability and Protheses”](https://tidsskrift.dk/KKF/article/view/127868). *Women, Gender & Research* 31, no. 2 (2021): 5-9.                                                                                                     | **2021** |
 | Mitchell, Jonathan Paul. [“Unsafe Ground: Technology, Habit, and the Enactment of Disability”](https://tidsskrift.dk/KKF/article/view/127873). *Women, Gender & Research* 31, no. 2 (2021): 24–39.                                                                                                                | **2021** |
 | Mitchell, Jonathan Paul. “Disability and the Inhuman”, in [*Perception and the Inhuman Gaze: Perspectives from Philosophy, Phenomenology and the Sciences*](https://www.routledge.com/Perception-and-the-Inhuman-Gaze-Perspectives-from-Philosophy-Phenomenology/Daly-Cummins-Jardine-Moran/p/book/9780367405625), edited by Anya Daly, James Jardine, Fred Cummins, and Dermot Moran, 298-307. London: Routledge, 2020. | **2020** |
@@ -27,13 +26,13 @@ description: Updated September 2022
 
 ## Forthcoming Activities
 | Activity                                                                                                              |          Year |
-| --------------------------------------------------------------------------------------------------------------------- | -------------:|
+| :--------------------------------------------------------------------------------------------------------------------- | -------------:|
 | Paper presentation at annual conference of the *International Merleau-Ponty Circle*. | **2022** |
 | Invited speaker: Workshop on philosophy of disability, University College Dublin. Date TBA.                            |      **2022** |
 
 ## Conference & Workshop Presentations
 | Title & Event                                                                                                                |     Year |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------:|
+| :---------------------------------------------------------------------------------------------------------------------------- | --------:|
 | **Disability, Personhood, and Vulnerability**                                                                                | **2021** |
 | *Invited Speaker Seminar Series, Nordic Network Gender Body Health, 16 December 2021.*                                       |          |
 | **Disability, Technological Milieus, and Anticipation**                                                                      | **2021** |
@@ -57,7 +56,7 @@ description: Updated September 2022
 
 ## Teaching Experience
 | Position                                                                                             |     Year |
-| ---------------------------------------------------------------------------------------------------- | --------:|
+| :---------------------------------------------------------------------------------------------------- | --------:|
 | **Part-Time (HPAL) Lecturer (University College Dublin) Jan.–May 2019**                              |          |
 | Lecture on Phenomenology and Disability as part of Level 2 module ‘Phenomenology and Existentialism’ | **2019** |
 | **Tutor (University College Dublin)**                                                                |          |
@@ -73,7 +72,7 @@ description: Updated September 2022
 
 ## Awards
 | Award                                                                                               |          Year |
-| --------------------------------------------------------------------------------------------------- | -------------:|
+| :--------------------------------------------------------------------------------------------------- | -------------:|
 | Irish Research Council, Government of Ireland Postgraduate Scholarship                              | **2013-2016** |
 | ESB–Universities Ireland, North/South Postgraduate Scholarship                                      | **2011-2012** |
 | Undergraduate Awards, ‘Social Studies' category: Overall Winner                                     |      **2011** |
@@ -87,7 +86,7 @@ description: Updated September 2022
 
 ## Other Academic Experience
 | Activity                                                                                                                                                    |          Year |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------:|
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------:|
 | Co-organiser: *Imaginining Technologies for Disability Futures* panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter | **2022** |
 | Co-editor: special issue of *Women, Gender & Research*, ‘Interrogating Disability and Prostheses’.                                                            | **2019–2021** |
 | Conference assistant: *The Inhuman Gaze*, Centre Culturel Irlandais, Paris.                                                                                   |      **2018** |
@@ -98,22 +97,22 @@ description: Updated September 2022
 | Indexer: Giffney, N. & Shildrick, M. (eds), *Theory on the Edge: Irish Studies and the Politics of Sexual Difference*. Basingstoke: Palgrave Macmillan, 2013. |      **2013** |
 
 ## Languages
-|  |  |
-|-------------------------------|----------|
-| English | native speaker |
-| French | speak and read with basic competence (Common European Framework A2.8) |
+| Language  | Level |
+|:-------------------------------|----------|
+| English | Native speaker |
+| French | Speak and read with basic competence (Common European Framework A2.8) |
 
 ## Memberships
-|  |  |
-|-------------------------------|----------|
-| [Minorities and Philosophy (Dublin Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/) | |
-| [Society for Philosophy and Disability](http://societyforphilosophyanddisability.org/)  |   |
-| [British Society for Phenomenology](https://www.britishphenomenology.org.uk/)   |   |
-| [Disabled Academic Collective](https://disabledacademicco.wixsite.com/mysite/) | |
+| Organisation | Years |
+|:-------------------------------|----------:|
+| [Minorities and Philosophy (Dublin Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/) | **2021--**|
+| [Society for Philosophy and Disability](http://societyforphilosophyanddisability.org/)  | **2020--** |
+| [British Society for Phenomenology](https://www.britishphenomenology.org.uk/)   | **2022--** |
+| [Disabled Academic Collective](https://disabledacademicco.wixsite.com/mysite/) | **2022--** |
 
 ## Related Experience
 | Role                                            |          Year |
-| ----------------------------------------------- | -------------:|
+|:----------------------------------------------- | -------------:|
 | *Queen’s University Belfast*                    |               |
 | Student Union Councillor                        | **2010-2011** |
 | Community, Equality, Diversity Committee Member | **2009-2011** |
