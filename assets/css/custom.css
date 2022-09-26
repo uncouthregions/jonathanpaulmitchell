@@ -1,16 +1,17 @@
 /* Increase the default font size */
-/*html {
+section {
   font-size: 13pt;
-}*/
+}
 
 /* Image placement and styling*/
 img[src*='#left'] { 
     float: left;
-/*    border: 1px dashed whitesmoke;
-*/    padding-top: 8px;
-    padding-right: 18px;
-    padding-bottom: 18px;
-    padding-left: 0px;
+border: 1px dashed #10ba2c;
+;
+    margin-top: 8px;
+    margin-right: 18px;
+    margin-bottom: 18px;
+    margin-left: 0px;
 }
 img[src*='#right'] { 
     float: right;
