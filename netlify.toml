@@ -1,7 +1,7 @@
 # netlify.toml
 
 [build]
-  command = "hugo --gc $URL"
+  command = "hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
@@ -17,6 +17,6 @@
   HUGO_VERSION = "0.100.2"
 
 [[headers]]
-  for = "*"
+  for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
