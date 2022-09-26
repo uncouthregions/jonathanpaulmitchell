@@ -25,3 +25,7 @@
 [submodule "themes/archie"]
 	path = themes/archie
 	url = https://github.com/jonathanpmitchell/archie
+[submodule "themes/congo"]
+	path = themes/congo
+	url = https://github.com/jpanther/congo.git
+	branch = stable
