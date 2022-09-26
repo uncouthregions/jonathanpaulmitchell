@@ -78,4 +78,4 @@ Returning to the second sense of inhuman: this involves a more basic re-conceptu
 [^15]: Ingunn Moser, "Disability and the Promises of Technology: Technology, Subjectivity and Embodiment Within an Order of the Normal," *Information, Communication & Society* 9, no. 3 (2006): 373--95. -->
 
 
-{{< embed-pdf url="./posts/attachments/jpmitchell-disability-inhuman.pdf">}}
+{{< embed-pdf url="/posts/attachments/jpmitchell-disability-inhuman.pdf">}}
