@@ -11,19 +11,28 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
+  name = "Updates"
   pageRef = "posts"
-  weight = 10
-
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
   weight = 20
 
+# [[main]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 30
+
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Curriculum Vitae"
+  url = "/cv"
   weight = 30
+ [[main]]
+   name = "Home"
+   url = "/"
+   weight = 10
+
+# [[main]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 30
 
 
 # -- Footer Menu --
