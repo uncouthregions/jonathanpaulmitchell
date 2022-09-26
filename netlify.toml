@@ -1,29 +1,3 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
+  command = "hugo"
   publish = "public"
-
-[build.environment]
-HUGO_THEMESDIR = "../.."
-HUGO_THEME = "repo"
-TZ = "Australia/Melbourne"
-
-[context.production.environment]
-HUGO_VERSION = "0.100.2"
-HUGO_ENV = "production"
-
-[context.deploy-preview]
-command = "cd exampleSite && hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
-
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.100.2"
-
-[context.branch-deploy]
-command = "cd exampleSite && hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.100.2"
-
-[[headers]]
-  for = "/*"
-    [headers.values]
-    Access-Control-Allow-Origin = "*"
