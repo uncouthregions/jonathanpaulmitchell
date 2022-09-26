@@ -1,4 +1,9 @@
+/* Increase the default font size */
+/*html {
+  font-size: 13pt;
+}*/
 
+/* Image placement and styling*/
 img[src*='#left'] { 
     float: left;
     padding-top: 8px;
