@@ -9,7 +9,7 @@
       {{ if $authorImage }}
         {{ $authorImage := $authorImage.Fill "288x288" }}
         <img
-          class="mb-2 w-36 h-36"
+          class="mb-2 rounded-full w-36 h-36"
           width="144"
           height="144"
           alt="{{ $.Site.Author.name | default "Author" }}"
@@ -17,19 +17,19 @@
         />
       {{ end }}
     {{ end }}
-    <h1 class="text-4xl font-extrabold">
-      {{ .Site.Author.name | default .Site.Title }}
+    <h1 class="text-4xl font-bold">
+      Welcome to my website
     </h1>
     {{ with .Site.Author.headline }}
       <h2 class="text-xl text-neutral-500 dark:text-neutral-400">
         {{ . | markdownify | emojify }}
       </h2>
     {{ end }}
-    <div class="mt-1 text-2xl">
-      {{ partialCached "author-links.html" . }}
-    </div>
   </header>
   <section class="prose dark:prose-invert">{{ .Content | emojify }}</section>
+  <div class="mt-1 text-2xl">
+    {{ partialCached "author-links.html" . }}
+  </div>
 </article>
 <section>
   {{ partial "recent-articles.html" . }}
