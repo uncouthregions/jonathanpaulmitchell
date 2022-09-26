@@ -17,6 +17,6 @@
   HUGO_VERSION = "0.100.2"
 
 [[headers]]
-  for = "/*"
-    [headers.values]
+  for = "*"
+  [headers.values]
     Access-Control-Allow-Origin = "*"
