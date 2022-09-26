@@ -6,6 +6,7 @@
 /* Image placement and styling*/
 img[src*='#left'] { 
     float: left;
+    border: 1px dashed whitesmoke;
     padding-top: 8px;
     padding-right: 18px;
     padding-bottom: 18px;
