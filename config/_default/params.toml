@@ -32,7 +32,7 @@ enableCodeCopy = false
 [article]
   showDate = true
   showDateUpdated = true
-  showAuthor = true
+  showAuthor = false
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
