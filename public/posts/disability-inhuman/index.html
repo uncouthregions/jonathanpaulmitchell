@@ -107,7 +107,7 @@ A final version of this paper is published as “Disability and the Inhuman”, 
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "282"
+    "wordCount": "272"
   }]
   </script>
 
@@ -271,7 +271,7 @@ A final version of this paper is published as “Disability and the Inhuman”, 
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2018-06-13 12:25:28 &#43;0100 BST">13 June 2018</time><span class="px-2 text-primary-500">&middot;</span><span>282 words</span>
+      <time datetime="2018-06-13 12:25:28 &#43;0100 BST">13 June 2018</time><span class="px-2 text-primary-500">&middot;</span><span>272 words</span>
     
 
     
@@ -362,7 +362,8 @@ Returning to the second sense of inhuman: this involves a more basic re-conceptu
 [^14]: Bernard Stiegler, *Technics and Time: The Fault of Epimetheus*, trans. Geoffrey Beardsworth (Stanford: Stanford University Press, 1998).
 
 [^15]: Ingunn Moser, "Disability and the Promises of Technology: Technology, Subjectivity and Embodiment Within an Order of the Normal," *Information, Communication & Society* 9, no. 3 (2006): 373--95. -->
-<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.8.335/build/pdf.min.js" integrity="sha256-zRPZmNIE243+AcY4l08d17mLQKv7Srm0y4LLMpV0Ep8=" crossorigin="anonymous"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.8.335/build/pdf.min.js" integrity="sha256-zRPZmNIE243+AcY4l08d17mLQKv7Srm0y4LLMpV0Ep8=" crossorigin="anonymous"></script>
+
 
 <style>
 #the-canvas {
@@ -491,6 +492,17 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
 });
 }
 
+</script> -->
+<div id="adobe-dc-view" style="width: 800px;"></div>
+<script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = new AdobeDC.View({clientId: "3f1d5c1b3fde4e0e8b710f967ec081ac", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "/posts/attachments/jpmitchell-disability-inhuman.pdf"}},
+			metaData:{fileName: "Disability and The Inhuman"}
+		}, {embedMode: "IN_LINE"});
+	});
 </script>
 
       </div>
