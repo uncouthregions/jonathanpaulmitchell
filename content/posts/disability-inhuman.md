@@ -80,14 +80,13 @@ Returning to the second sense of inhuman: this involves a more basic re-conceptu
 
 <!-- {{< embed-pdf url="/posts/attachments/jpmitchell-disability-inhuman.pdf">}} -->
 
-<div id="adobe-dc-view" style="width: 100%;"></div>
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "3f1d5c1b3fde4e0e8b710f967ec081ac", divId: "adobe-dc-view"});
+		var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>"});
 		adobeDCView.previewFile({
 			content:{location: {url: "/posts/attachments/jpmitchell-disability-inhuman.pdf"}},
-			metaData:{fileName: "Disability and The Inhuman"}
-		}, {embedMode: "IN_LINE"});
+			metaData:{fileName: "Read PDF"}
+		}, {embedMode: "LIGHT_BOX"});
 	});
 </script>
