@@ -87,7 +87,7 @@ description: Updated September 2022
 ## Other Academic Experience
 | Activity                                                                                                                                                    |          Year(s) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------:|
-| Co-organiser: *Imaginining Technologies for Disability Futures* panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter | **2022** |
+| Co-organiser: *Imagining Technologies for Disability Futures* panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter | **2022** |
 | Co-editor: special issue of *Women, Gender & Research*, ‘Interrogating Disability and Prostheses’.                                                            | **2019--2021** |
 | Conference assistant: *The Inhuman Gaze*, Centre Culturel Irlandais, Paris.                                                                                   |      **2018** |
 | Peer reviewer: *Hypatia*.                                                                                                                                     |      **2016** |
