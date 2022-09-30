@@ -6,9 +6,9 @@ weight = 1
 rtl = false
 
 title = "Dr Jonathan Paul Mitchell"
-# logo = "img/logo.jpg"
-# description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
+logo = "img/logo.png"
+description = "My awesome website"
+copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
