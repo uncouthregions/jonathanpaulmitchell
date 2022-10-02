@@ -33,7 +33,7 @@ description: Updated September 2022
 ## Conference & Workshop Presentations
 | Title & Event                                                                                                                |     Year(s) |
 | :---------------------------------------------------------------------------------------------------------------------------- | --------:|
-| **Disability, Personhood, and Vulnerability**                                                                                | **2021** |
+| **Disability, Personhood, and Vulnerability** \[[read](/posts/disability-personhood-vulnerability/)\]                                                                                | **2021** |
 | *Invited Speaker Seminar Series, Nordic Network Gender Body Health, 16 December 2021*.                                       |          |
 | **Disability, Technological Milieus, and Anticipation**                                                                      | **2021** |
 | *‘Phenomenology Symposium’, School of Philosophy, University College Dublin, 26 April 2021*.                                 |          |
@@ -41,15 +41,15 @@ description: Updated September 2022
 | *‘Habit and Social Experience’, School of Philosophy, University College Dublin, 7-8 December 2018*.                         |          |
 | **Some Implications of Enactivism for a Conception of Disability**                                                           | **2018** |
 | *‘A Workshop On and With Tony Chemero’, School of Computer Science, University College Dublin, 27-28 June 2018*.             |          |
-| **Disability and The Inhuman**                                                                                               | **2018** |
+| **Disability and The Inhuman** \[[read](/posts/disability-inhuman/)\]                                                                                               | **2018** |
 | *‘The Inhuman Gaze and Perceiving Otherwise’, Centre Culturel Irlandais, Paris, France, 6-9 June 2018*.                      |          |
-| **Disability, Technology, Time: The Technological Unconscious as an Unsafe Ground for Bodily Activity**                      | **2017** |
+| **Disability, Technology, Time: The Technological Unconscious as an Unsafe Ground for Bodily Activity** \[[read](/posts/disability-technology-time/)\]                      | **2017** |
 | *‘Interrogating Prostheses’, Nordic Network Gender Body Health, Stockholm University, 15-16 May 2017*.                       |          |
-| **Disability and Prosthesis Beyond Utility and Function**                                                                    | **2016** |
+| **Disability and Prosthesis Beyond Utility and Function** \[[read](/posts/disability-and-prosthesis/)\]                                                                    | **2016** |
 | *‘Disability, Arts and Health’, Nordic Network for Gender, Body, Health, Bergen University, 1-2 September 2016*.             |          |
-| **Expression and *The Structure of Behavior***                                                                               | **2016** |
+| **Expression and *The Structure of Behavior*** \[[read](/posts/expression-structure-of-behavior/)\]                                                                               | **2016** |
 | *‘Workshop with Donald A. Landes on Merleau-Ponty and the Paradoxes of Expression’, University College Dublin, 18 May 2016*. |          |
-| **Atypical Morphology and the Normative Limits of Ability and Function**                                                     | **2015** |
+| **Atypical Morphology and the Normative Limits of Ability and Function** \[[read](/posts/normative-limits/)\]                                                     | **2015** |
 | *‘Theorizing the Body in Health and Medicine’, Maastricht University, 25-26 November 2015*.                                  |          |
 | **Bioethics Without a Concept of 'Normalcy'**                                                                                               | **2015** |
 | *‘Conceptualizing Disability as a Public Health Issue’, Fondation Brocher, Geneva, Switzerland, 26 January 2015*.            |          |
