@@ -24,6 +24,7 @@
   name = "Curriculum Vitae"
   url = "/cv"
   weight = 30
+  
  [[main]]
    name = "Home"
    url = "/"
