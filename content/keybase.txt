@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/uncouthregions
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jonathanpaulmitchell.com
+  * I am uncouthregions (https://keybase.io/uncouthregions) on keybase.
+  * I have a public key ASAH5O1l_1B6MQ8HmOgv73Axu6KuoKwVJDB0XAJNpMKZ1go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012007e4ed65ff507a310f0798e82fef7031bba2aea0ac152430745c024da4c299d60a",
+      "host": "keybase.io",
+      "kid": "012007e4ed65ff507a310f0798e82fef7031bba2aea0ac152430745c024da4c299d60a",
+      "uid": "65470a25bd3d83318ffc980221782a19",
+      "username": "uncouthregions"
+    },
+    "merkle_root": {
+      "ctime": 1664730852,
+      "hash": "93ee2def2fe0372de441b03177800568a31293f6bd3da969cc0c6ad150bc5fa0f297bd5cd8703a12ddb76ba454c037e1f86708013c3223bfe0f35e9094bdf274",
+      "hash_meta": "b1275bfda5189dfb3b602893b5d492914fcd15ecf0b80327efb8bd9e147f4fa1",
+      "seqno": 23298139
+    },
+    "service": {
+      "entropy": "aCIkjw/om6cYShacPwIJD/fq",
+      "hostname": "jonathanpaulmitchell.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1664730915,
+  "expire_in": 504576000,
+  "prev": "7c85cc097fe55abb767f63f37c27a93bdaf8a35e8660b2a7e7e20c97750180dc",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgB+TtZf9QejEPB5joL+9wMbuirqCsFSQwdFwCTaTCmdYKp3BheWxvYWTESpcCBcQgfIXMCX/lWrt2f2PzfCepO9r4o16GYLKn5+IMl3UBgNzEICrvtjD9yYm1A82VLsYSmQjwWfAtEo2LnY7QeE0+YckDAgHCo3NpZ8RAPrV3ceS6wYNVpc/qItXOlOx5/rWwv8ny0zIw9HfT6C9GIKl94Rh5JoU+aMSgIeg4Ojk0tsG33L51MpQVc/TJAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFpQbIwvai9TEVF0u/J2axKYyxdpmkVq84Pv0x8k//uco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/uncouthregions
+
+==================================================================
