@@ -11,7 +11,7 @@ description: Updated September 2022
 | **PhD in Philosophy (awarded with minor typographical corrections)**               | **2013--2021** |
 | Thesis Title: “Distributing Disability: Embodied Difference, Technology, and the Human”. |               |
 | **MA in Philosophy (First Class)**                                                 | **2011--2012** |
-| Thesis Title: “Rebellious Matter: Towards an Ontology of Embodied Difference”,           |               |
+| Thesis Title: “Rebellious Matter: Towards an Ontology of Embodied Difference”.           |               |
 | *Queen’s University Belfast*                                                       |               |
 | **BA (Hons) in Sociology and Politics (First Class)**                              | **2008--2011** |
 | Dissertation Title: “Live Flesh: Materiality, Subjectivity, Agency”.                     |               |
