@@ -87,14 +87,14 @@ description: Updated September 2022
 ## Other Academic Experience
 | Activity                                                                                                                                                    |          Year(s) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------:|
-| Co-organiser: *Imagining Technologies for Disability Futures* panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter. | **2022** |
-| Co-editor: special issue of *Women, Gender & Research*, ‘Interrogating Disability and Prostheses’.                                                            | **2019--2021** |
-| Conference assistant: *The Inhuman Gaze*, Centre Culturel Irlandais, Paris.                                                                                   |      **2018** |
+ Co-organiser: []*Imagining Technologies for Disability Futures*](https://itdfproject.org/) panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter. | **2022** |
+| Co-editor: special issue of *Women, Gender & Research*, [‘Interrogating Disability and Prostheses’](https://tidsskrift.dk/KKF/issue/view/8124).                                                            | **2019--2021** |
+| Conference assistant: [*The Inhuman Gaze*](https://theinhumangaze.com/), Centre Culturel Irlandais, Paris.                                                                                   |      **2018** |
 | Peer reviewer: *Hypatia*.                                                                                                                                     |      **2016** |
 | Peer reviewer: *Somatechnics*.                                                                                                                                |      **2014** |
 | Conference assistant: *The Future of the Body*, Long Room Hub, Trinity College, Dublin.                                                                       |      **2014** |
-| Alumnus judge: 2013 *Undergraduate Awards*.                                                                                                                   |      **2013** |
-| Indexer: Giffney, N. & Shildrick, M. (eds), *Theory on the Edge: Irish Studies and the Politics of Sexual Difference*. Basingstoke: Palgrave Macmillan, 2013. |      **2013** |
+| Alumnus judge: 2013 [*Undergraduate Awards*](https://undergraduateawards.com/).                                                                                                                   |      **2013** |
+| Indexer: Giffney, N. & Shildrick, M. (eds), [*Theory on the Edge: Irish Studies and the Politics of Sexual Difference*](https://link.springer.com/book/10.1057/9781137315472). Basingstoke: Palgrave Macmillan, 2013. |      **2013** |
 
 ## Languages
 | Language  | Level |
