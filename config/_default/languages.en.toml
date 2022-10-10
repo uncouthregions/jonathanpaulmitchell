@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Jonathan Paul Mitchell"
-  # image = "img/author.jpg"
+  image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
   links = [
