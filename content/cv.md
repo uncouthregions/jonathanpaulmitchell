@@ -4,7 +4,7 @@ date: 2022-05-28
 description: Updated September 2022
 ---
 
-## Current Roles
+## Current Role(s)
 | Role                              | Year(s) |
 |:------------------------------------------------------------------------------ | ----------------:|
 | Editorial Assistant: International Journal of Philosophical Studies | **2022--** |
