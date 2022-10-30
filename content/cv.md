@@ -109,7 +109,7 @@ description: Updated September 2022
 ## Memberships
 | Organisation | Year(s) |
 |:-------------------------------|----------:|
-| [Minorities and Philosophy (Dublin Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/) | **2021--**|
+| [Minorities and Philosophy (Dublin Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/): Committee Member & Accessibility Co-ordinator | **2021--**|
 | [Society for Philosophy and Disability](http://societyforphilosophyanddisability.org/)  | **2020--** |
 | [British Society for Phenomenology](https://www.britishphenomenology.org.uk/)   | **2022--** |
 | [Disabled Academic Collective](https://disabledacademicco.wixsite.com/mysite/) | **2022--** |
