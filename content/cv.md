@@ -7,7 +7,7 @@ description: Updated September 2022
 ## Current Role(s)
 | Role                              | Year(s) |
 |:------------------------------------------------------------------------------ | ----------------:|
-| Editorial Assistant: International Journal of Philosophical Studies | **2022--** |
+| Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20) | **2022--** |
 ## Education
 | Degree                                                                             |          Year(s) |
 |:---------------------------------------------------------------------------------- | -----------------:|
