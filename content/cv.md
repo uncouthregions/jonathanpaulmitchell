@@ -38,7 +38,7 @@ description: Updated September 2022
 | Title & Event                                                                                                                |     Year(s) |
 | :---------------------------------------------------------------------------------------------------------------------------- | --------:|
 | **Disability, Vulnerability, and Debility** | **2022** |
-| *Fits and Misfits: Rethinking Disability, Debility, and the World with Merleau-Ponty (46th Annual Conference of the International Merleau-Ponty Circle), Georgetown University, Washington, 10 November 202.2*                            |            |
+| *Fits and Misfits: Rethinking Disability, Debility, and the World with Merleau-Ponty (46th Annual Conference of the International Merleau-Ponty Circle), Georgetown University, Washington, 10 November 2022.*                            |            |
 | **Disability, Personhood, and Vulnerability** \[[read](/posts/disability-personhood-vulnerability/)\]                                                                                | **2021** |
 | *Invited Speaker Seminar Series, Nordic Network Gender Body Health, 16 December 2021*.                                       |          |
 | **Disability, Technological Milieus, and Anticipation**                                                                      | **2021** |
