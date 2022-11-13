@@ -31,7 +31,6 @@ description: Updated September 2022
 ## Forthcoming Activities
 | Activity                                                                                                              |          Year(s) |
 | :--------------------------------------------------------------------------------------------------------------------- | -------------:|
-| Paper presentation at annual conference of the *International Merleau-Ponty Circle*. | **2022** |
 | Invited speaker: Workshop on philosophy of disability, University College Dublin Date TBA.                            |      **2022** |
 
 ## Conference & Workshop Presentations
