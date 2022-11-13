@@ -31,7 +31,7 @@ description: Updated September 2022
 ## Forthcoming Activities
 | Activity                                                                                                              |          Year(s) |
 | :--------------------------------------------------------------------------------------------------------------------- | -------------:|
-| Invited speaker: Workshop on philosophy of disability, University College Dublin Date TBA.                            |      **2022** |
+| Invited speaker: Workshop on philosophy of disability, University College Dublin (Date TBA).                            |      **2022** |
 
 ## Conference & Workshop Presentations
 | Title & Event                                                                                                                |     Year(s) |
