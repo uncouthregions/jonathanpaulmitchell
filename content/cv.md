@@ -78,7 +78,7 @@ description: Updated September 2022
 ## Awards
 | Award                                                                                               |          Year(s) |
 | :--------------------------------------------------------------------------------------------------- | -------------:|
-| Nomination for  Dr Máire de Paor Award (best PhD research thesis in UCD College of Social Sciences and Law) | **2022** | 
+| Nomination for Dr Máire de Paor Award (best PhD research thesis in UCD College of Social Sciences and Law) | **2022** | 
 | Irish Research Council, Government of Ireland Postgraduate Scholarship                              | **2013--2016** |
 | ESB–Universities Ireland, North/South Postgraduate Scholarship                                      | **2011--2012** |
 | Undergraduate Awards, ‘Social Studies' category: Overall Winner                                     |      **2011** |
