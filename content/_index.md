@@ -1,6 +1,7 @@
 ---
 title: Welcome to my website
 date: "2022-04-12"
+lastmod: "2022-04-12"
 author: Jonathan Paul Mitchell
 ---
 <!-- ![Picture of Jonathan](../assets/img/author-120.jpg#left) -->
