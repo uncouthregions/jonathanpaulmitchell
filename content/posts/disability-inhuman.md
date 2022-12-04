@@ -3,6 +3,7 @@ title: "Disability and The Inhuman"
 author: Jonathan Paul Mitchell
 date: 2018-06-13T12:25:28+01:00
 draft: false
+summary: "I consider how certain ways of existing come to be considered as not fully human, and associated with something called 'inhuman'; how such associations are involved in the constitution of what is taken to be fully or properly human; and finally, the deleterious effects for those who, because they move or think in unconventional ways, become associated with the inhuman."
 ---
 *Presented at ‘The Inhuman Gaze and Perceiving Otherwise’, Centre Culturel Irlandais, Paris, France, 6-9 June 2018. This is a work in progress and not for citation.*
 

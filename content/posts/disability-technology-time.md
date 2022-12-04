@@ -4,6 +4,7 @@ title: "Disability, Technology, Time: The Technological Unconscious as an Unsafe
 date: 2017-05-19T12:25:28+01:00
 date created: Friday, September 9th 2022, 12:25:28 pm
 date modified: Wednesday, September 21st 2022, 1:49:31 pm
+summary: "I talk about very basic kinds of technology, and how these contribute to the enaction of disability. I outline two concepts: *inter-mundane technology* (a low level artefactuality that supports activity while falling outside awareness, so that its contribution goes unacknowledged and the activity appears natural), and *technological unconscious* (a corpus of habituated expectations about how the world is). I then discuss how inter-mundane technologies---which are normatively-structured---lead to one way disability gets enacted, and also arodes bodily confidence in the world."
 ---
 
 *Presented at the Nordic Network Gender Body Health workshop 'Interrogating Prostheses', Stockholm University, Stockholm, Sweden, 15-16 May 2017. This is a work in progress and not for citation.*
@@ -12,7 +13,7 @@ The main content of this paper is published as "[Unsafe Ground: Technology, Habi
 
 ## Introduction
 
-I'm going to talk here about very basic kinds of technology, and how these contribute to the enaction of disability. I will first sketch some commonplaces concerning the body and technology, before outlining my own position on these: that the body has a fundamental relationality, of which technology, broadly construed, comprises one aspect. Then I'll outline something called *inter-mundane technology* (a low level artefactuality that supports activity while falling outside awareness, so that its contribution goes unacknowledged and the activity appears natural); and the *technological unconscious* (a corpus of habituated expectations about how the world is). Finally, I'll discuss how norms materialised in inter-mundane technologies lead to one way disability gets enacted, which us erosion of bodily confidence in the world.
+I'm going to talk here about very basic kinds of technology, and how these contribute to the enaction of disability. I will first sketch some commonplaces concerning the body and technology, before outlining my own position on these: that the body has a fundamental relationality, of which technology, broadly construed, comprises one aspect. Then I'll outline something called *inter-mundane technology* (a low level artefactuality that supports activity while falling outside awareness, so that its contribution goes unacknowledged and the activity appears natural); and the *technological unconscious* (a corpus of habituated expectations about how the world is). Finally, I'll discuss how norms materialised in inter-mundane technologies lead to one way disability gets enacted, and also erodes of bodily confidence in the world.
 
 ## 1. Objective Embodiment and Instrumental Technology
 

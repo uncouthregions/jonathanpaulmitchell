@@ -3,6 +3,7 @@ title: "Expression and The Structure of Behaviour"
 author: Jonathan Paul Mitchell
 date: 2016-05-18T12:25:28+01:00
 draft: false
+summary: "I summarise some of Merleau-Ponty's ideas, and then outline concepts from Donald Landes' book is organised (including concepts taken from Gilbert Simondon). Then I talk about Merleau-Ponty's *The Structure of Behaviour*, and Landes' understanding of it, before offering some comments. First, I suggest that there may be a tension between Merleau-Ponty's emphasis upon perception and Simondon's philosophy. Second, by incorporating Simondon's notion of being as problematic, we can develop an account of bodily behaviour that is a marked improvement on Hubert Dreyfus's interpretation of Merleau-Ponty, which over-emphasises the achievement of smooth equilibriums."
 ---
 
 *Presented at 'Workshop with Donald A. Landes on* Merleau-Ponty and the Paradoxes of Expression', *University College Dublin, Dublin, Ireland, 18 May 2016. This is a work in progress and not for citation.*
