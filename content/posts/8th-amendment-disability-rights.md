@@ -2,6 +2,7 @@
 title: "Repealing the 8th Amendment need not erode disability rights"
 date: 2018-05-23T12:25:28+01:00
 draft: false
+summary: In their arguments against repeal of the 8th Amendment of the Irish Constitution, the No campaign has used Down syndrome to suggest that this Amendment is necessary to protect disability rights. It isn’t.
 category: engagements
 ---
 In their arguments against repeal of the 8th Amendment of the Irish Constitution, the No campaign has used Down syndrome to suggest that this Amendment is necessary to protect disability rights. It isn’t.
