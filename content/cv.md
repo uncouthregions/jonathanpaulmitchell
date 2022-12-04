@@ -1,7 +1,6 @@
 ---
 title: Curriculum Vitae
-date: "2022-11-13"
-lastmod: "2022-11-13"
+lastmod: 2022-11-13
 ---
 
 ## Current Role(s)
