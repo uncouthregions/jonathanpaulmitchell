@@ -1,5 +1,6 @@
 ---
 title: Curriculum Vitae
+date: 2022-07-04
 lastmod: 2022-11-13
 ---
 
