@@ -31,10 +31,10 @@ enableCodeCopy = false
   showRecent = false
 
 [article]
-  showDate = false
+  showDate = true
   showDateUpdated = true
   showAuthor = false
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -50,9 +50,9 @@ enableCodeCopy = false
   # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
-  showBreadcrumbs = false
-  showSummary = false
-  showTableOfContents = false
+  showBreadcrumbs = true
+  showSummary = true
+  showTableOfContents = true
   showTaxonomies = false
   groupByYear = true
   paginationWidth = 1
