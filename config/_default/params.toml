@@ -28,10 +28,10 @@ enableCodeCopy = false
 
 [homepage]
   layout = "custom" # valid options: page, profile, custom
-  showRecent = true
+  showRecent = false
 
 [article]
-  showDate = false
+  showDate = true
   showDateUpdated = true
   showAuthor = false
   showBreadcrumbs = true
