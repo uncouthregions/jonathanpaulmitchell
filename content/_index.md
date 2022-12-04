@@ -9,4 +9,4 @@ I'm a philosopher and critical disability theorist. Until recently, I was an [Ir
 
 You can read more about me and my research [here](/about). As it stands, this website is mostly somewhere to share conference and workshop papers. You can read these by tapping ['Updates'](/posts/). Some drafts contain ideas that I was developing at the time, but do not wholeheartedly subscribe to any longer. More recent works are most indicative of my current positions.
 
-You can find me on <a rel="me" href="https://zirk.us/@jpmitchell">Mastodon</a>, [Twitter](http://twitter.com/UncouthRegions/), [ResearchGate](https://www.researchgate.net/profile/Jonathan-Mitchell-4), and [ORCiD](https://orcid.org/0000-0003-4107-7453).
+You can find me on <a rel="me" href="https://zirk.us/@jpmitchell">Mastodon</a>, [Twitter](http://twitter.com/UncouthRegions/), and the other places linked below.
