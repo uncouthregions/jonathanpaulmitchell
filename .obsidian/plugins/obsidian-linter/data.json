@@ -45,7 +45,7 @@
       "Date Created Key": "date",
       "Date Modified": true,
       "Date Modified Key": "lastmod",
-      "Format": "YYYY-DD-MM"
+      "Format": "YYYY-MM-DD"
     },
     "YAML Title": {
       "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": false,
