@@ -95,8 +95,6 @@ author: Jonathan Paul Mitchell
 | ‘Rationalism & Empiricism’ (Level 2)                                                                 | **2014** |
 | ‘Introduction to Greek Philosophy’ (Level 1)                                                         | **2013** |
 | ‘Introduction to Arts’ (Level 1)                                                                     | **2012** |
-| *Facilitating tutorials, meeting students, grading assignments.*                                     |          |
-
 
 ## Other Academic Experience & Citizenship
 | Activity                                                                                                                                                    |          Year(s) |
