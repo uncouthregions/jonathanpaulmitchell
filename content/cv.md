@@ -44,7 +44,7 @@ author: Jonathan Paul Mitchell
 | Undergraduate Awards, ‘Social Studies' category: Overall Winner.                                     |      **2011** |
 | Undergraduate Awards, 'Politics and International Relations' category: Highly Commended (runner-up). |      **2011** |
 | *Queen’s University Belfast, School of Sociology, Social Policy and Social Work:*                    |               |
-| McLaughlin Prize (best work on disability).                                                          |      **2011** |
+| Eithne McLaughlin Prize (best work on disability).                                                          |      **2011** |
 | *Queen’s University Belfast, School of Politics, International Studies and Philosophy:*              |               |
 | David Mulholland Prize (best performance in dissertation).                                           |      **2011** |
 | Foundation Scholarship.                                                                              |      **2010** |
