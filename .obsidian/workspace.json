@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/cv.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/cv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/cv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/cv.md"
               }
             }
           },
@@ -144,9 +144,20 @@
     "direction": "horizontal",
     "width": 300
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true
+    }
+  },
   "active": "0d9fb93f91409972",
   "lastOpenFiles": [
     "content/_index.md",
+    "2022-12-07.md",
     "content/cv.md",
     "content/about.md",
     "content/posts/disability-technology-time.md",
@@ -154,7 +165,6 @@
     "content/posts/Disability, Personhood, and Vulnerability.md",
     "content/posts/expression-structure-of-behavior.md",
     "content/post/normative-limits.md",
-    "content/post/expression-structure-of-behavior.mda.md",
-    "content/post/expression-structure-of-behavior.md"
+    "content/post/expression-structure-of-behavior.mda.md"
   ]
 }
