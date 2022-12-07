@@ -4,7 +4,8 @@ date: 2022-07-04
 lastmod: 2022-12-07
 author: Jonathan Paul Mitchell
 ---
-<small>You can download a PDF version by tapping [here](/attachments/JPM_CV_2022.pdf).</small>
+You can download a PDF version by tapping [here](/attachments/JPM_CV_2022.pdf).
+
 **Areas of specialisation**: Continental philosophy, phenomenology, philosophy of disability, disability studies, philosophy of technology, feminist philosophy, actor-network theory, vulnerability, biopolitics, posthumanism.
 
 **Areas of competence**: philosophy of biology, embodied cognition, Critical Theory, bioethics, medical ethics.
