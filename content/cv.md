@@ -8,13 +8,12 @@ author: Jonathan Paul Mitchell
 **Areas of specialisation**: Continental philosophy, phenomenology, philosophy of disability, disability studies, philosophy of technology, feminist philosophy, actor-network theory, vulnerability, biopolitics, posthumanism.
 
 **Areas of competence**: philosophy of biology, embodied cognition, Critical Theory, bioethics, medical ethics.
-
 ## Current Role(s)
-|                              | Year(s) |
+| Role                             | Year(s) |
 |:------------------------------------------------------------------------------ | ----------------:|
 | Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20) | **2022--** |
 ## Education
-|                                                                              |          Year(s) |
+| Degree                                                                             |          Year(s) |
 |:---------------------------------------------------------------------------------- | -----------------:|
 | *University College Dublin*                                                        |               |
 | **PhD in Philosophy (awarded with minor typographical corrections)**               | **2013--2021** |
@@ -25,7 +24,7 @@ author: Jonathan Paul Mitchell
 | **BA (Hons) in Sociology and Politics (First Class)**                              | **2008--2011** |
 | Dissertation Title: “Live Flesh: Materiality, Subjectivity, Agency”.                     |               |
 ## Publications
-|                                                                                                                                                                                                                                                       |     Year(s) |
+| Publication                                                                                                                                                                                                                                                      |     Year(s) |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------:|
 | Dolezal, Luna, Cathrin Fisher & Jonathan Paul Mitchell, 'Disability', in *Routledge Handbook of Political Phenomenology* (forthcoming). | **2023** |
 | Käll, Lise Folkmarson, Jonathan Paul Mitchell & Tobias Skiveren. [“Editors' Introduction: Disability and Protheses”](https://tidsskrift.dk/KKF/article/view/127868). *Women, Gender & Research* 31, no. 2 (2021): 5-9.                                                                                                     | **2021** |
@@ -34,7 +33,7 @@ author: Jonathan Paul Mitchell
 | Mitchell, Jonathan. [“‘Race’, Nation and Belonging in Ireland”](https://arrow.tudublin.ie/ijass/vol11/iss1/1/). *Irish Journal of Applied Social Studies* 11, no. 1 (2011): 4-13.                                                                                                                                 | **2011** |
 
 ## Awards
-|                                                                                                |          Year(s) |
+| Award                                                                                               |          Year(s) |
 | :--------------------------------------------------------------------------------------------------- | -------------:|
 | Nomination for Dr Máire de Paor Award (best PhD research thesis in UCD College of Social Sciences and Law) | **2022** | 
 | Irish Research Council, Government of Ireland Postgraduate Scholarship                              | **2013--2016** |
@@ -49,12 +48,12 @@ author: Jonathan Paul Mitchell
 | Foundation Scholarship                                                                              |      **2009** |
 
 ## Forthcoming Activities
-|                                                                                                               |          Year(s) |
+| Activity                                                                                                              |          Year(s) |
 | :--------------------------------------------------------------------------------------------------------------------- | -------------:|
 | Invited speaker: Workshop on philosophy of disability, University College Dublin (Date TBA).                            |      **2022** |
 
 ## Conference & Workshop Presentations
-|                                                                                                              |     Year(s) |
+| Title & Event                                                                                                                |     Year(s) |
 | :---------------------------------------------------------------------------------------------------------------------------- | --------:|
 | **Disability, Vulnerability, and Debility** | **2022** |
 | *Fits and Misfits: Rethinking Disability, Debility, and the World with Merleau-Ponty (46th Annual Conference of the International Merleau-Ponty Circle), Georgetown University, Washington, 10 November 2022.*                            |            |
@@ -80,7 +79,7 @@ author: Jonathan Paul Mitchell
 | *‘Conceptualizing Disability as a Public Health Issue’, Fondation Brocher, Geneva, Switzerland, 26 January 2015*.            |          |
 
 ## Teaching Experience
-|                                                                                              |     Year(s) |
+| Position                                                                                             |     Year(s) |
 | :---------------------------------------------------------------------------------------------------- | --------:|
 | **Part-Time (HPAL) Lecturer (University College Dublin) January--May 2019**                              |          |
 | Lecture on Phenomenology and Disability as part of Level 2 module ‘Phenomenology and Existentialism’ | **2019** |
@@ -97,7 +96,7 @@ author: Jonathan Paul Mitchell
 
 
 ## Other Academic Experience
-|                                                                                                                                                     |          Year(s) |
+| Activity                                                                                                                                                    |          Year(s) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------:|
  Co-organiser: [*Imagining Technologies for Disability Futures*](https://itdfproject.org/) panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter. | **2022** |
 | Co-editor: special issue of *Women, Gender & Research*, [‘Interrogating Disability and Prostheses’](https://tidsskrift.dk/KKF/issue/view/8124).                                                            | **2019--2021** |
@@ -109,13 +108,13 @@ author: Jonathan Paul Mitchell
 | Indexer: Giffney, N. & Shildrick, M. (eds), [*Theory on the Edge: Irish Studies and the Politics of Sexual Difference*](https://link.springer.com/book/10.1057/9781137315472). Basingstoke: Palgrave Macmillan, 2013. |      **2013** |
 
 ## Languages
-|   | Level |
+| Language  | Level |
 |:-------------------------------|----------|
 | English | Native speaker. |
 | French | Speak and read with basic competence (Common European Framework A2.8). |
 
 ## Memberships
-|  | Year(s) |
+| Organisation | Year(s) |
 |:-------------------------------|----------:|
 | [Minorities and Philosophy (Dublin Chapter)](https://www.ucd.ie/philosophy/study/minoritiesandphilosophymapdublinchapter/): Committee Member & Accessibility Co-ordinator | **2021--**|
 | [Society for Philosophy and Disability](http://societyforphilosophyanddisability.org/)  | **2020--** |
@@ -123,7 +122,7 @@ author: Jonathan Paul Mitchell
 | [Disabled Academic Collective](https://disabledacademicco.wixsite.com/mysite/) | **2022--** |
 
 ## Related Experience
-|                                             |          Year(s) |
+| Role                                            |          Year(s) |
 |:----------------------------------------------- | -------------:|
 | *Queen’s University Belfast*                    |               |
 | Student Union Councillor                        | **2010--2011** |
