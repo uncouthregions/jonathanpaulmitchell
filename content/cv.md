@@ -9,10 +9,12 @@ author: Jonathan Paul Mitchell
 
 **Areas of competence**: philosophy of biology, embodied cognition, Critical Theory, bioethics, medical ethics.
 
-## Current Role(s)
+## Current & Recent Employment
 | Role                             | Year(s) |
 |:------------------------------------------------------------------------------ | ----------------:|
-| Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20) | **2022--** |
+| Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). | **2022--** |
+| Part-Time (HPAL) Lecturer (University College Dublin). | 2019 |
+| Tutor (University College Dublin). | 2012--2022 |
 ## Education
 | Degree                                                                             |          Year(s) |
 |:---------------------------------------------------------------------------------- | -----------------:|
@@ -96,10 +98,10 @@ author: Jonathan Paul Mitchell
 | *Facilitating tutorials, meeting students, grading assignments.*                                     |          |
 
 
-## Other Academic Experience
+## Other Academic Experience & Citizenship
 | Activity                                                                                                                                                    |          Year(s) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------:|
- Co-organiser: [*Imagining Technologies for Disability Futures*](https://itdfproject.org/) panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter. | **2022** |
+| Co-organiser: [*Imagining Technologies for Disability Futures*](https://itdfproject.org/) panel, 'Phenomenology, Disability, and Technology', at 2022 British Society for Phenomenology conference, University of Exeter. | **2022** |
 | Co-editor: special issue of *Women, Gender & Research*, [‘Interrogating Disability and Prostheses’](https://tidsskrift.dk/KKF/issue/view/8124).                                                            | **2019--2021** |
 | Conference assistant: [*The Inhuman Gaze*](https://theinhumangaze.com/), Centre Culturel Irlandais, Paris.                                                                                   |      **2018** |
 | Peer reviewer: *Hypatia*.                                                                                                                                     |      **2016** |
@@ -107,12 +109,10 @@ author: Jonathan Paul Mitchell
 | Conference assistant: *The Future of the Body*, Long Room Hub, Trinity College, Dublin.                                                                       |      **2014** |
 | Alumnus judge: 2013 [*Undergraduate Awards*](https://undergraduateawards.com/).                                                                                                                   |      **2013** |
 | Indexer: Giffney, N. & Shildrick, M. (eds), [*Theory on the Edge: Irish Studies and the Politics of Sexual Difference*](https://link.springer.com/book/10.1057/9781137315472). Basingstoke: Palgrave Macmillan, 2013. |      **2013** |
-
-## Languages
-| Language  | Level |
-|:-------------------------------|----------|
-| English | Native speaker. |
-| French | Speak and read with basic competence (Common European Framework A2.8). |
+| *Queen’s University Belfast:*                    |               |
+| Student Union Councillor.                        | **2010--2011** |
+| Community, Equality, Diversity Committee Member. | **2009--2011** |
+| Student-Staff Consultative Committee Member.  | **2009--2010** |
 
 ## Memberships
 | Organisation | Year(s) |
@@ -122,14 +122,12 @@ author: Jonathan Paul Mitchell
 | [British Society for Phenomenology](https://www.britishphenomenology.org.uk/)   | **2022--** |
 | [Disabled Academic Collective](https://disabledacademicco.wixsite.com/mysite/) | **2022--** |
 
-## Related Experience
-| Role                                            |          Year(s) |
-|:----------------------------------------------- | -------------:|
-| *Queen’s University Belfast*                    |               |
-| Student Union Councillor                        | **2010--2011** |
-| Community, Equality, Diversity Committee Member | **2009--2011** |
-| Student-Staff Consultative Committee Member     | **2009--2010** |
+## Languages
+| Language  | Level |
+|:-------------------------------|----------|
+| English | Native speaker. |
+| French | Speak and read with basic competence (Common European Framework A2.8). |
 
 ## Download
 
-You can download a PDF version by tapping [here](https://drive.google.com/file/d/1zOJYG3Zfm1XDTZ0Pq6pAtAtgEkZohqRx/view?usp=sharing).
+You can view and download a PDF version of this curriculum vitae by tapping [here](https://drive.google.com/file/d/1zOJYG3Zfm1XDTZ0Pq6pAtAtgEkZohqRx/view?usp=sharing).
