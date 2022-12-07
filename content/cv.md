@@ -1,8 +1,13 @@
 ---
 title: Curriculum Vitae
 date: 2022-07-04
-lastmod: 2022-12-06
+lastmod: 2022-12-07
+author: Jonathan Paul Mitchell
 ---
+
+**Areas of specialisation**: Continental philosophy, phenomenology, philosophy of disability, disability studies, philosophy of technology, feminist philosophy, actor-network theory, vulnerability, biopolitics, posthumanism.
+
+**Areas of competence**: philosophy of biology, embodied cognition, Critical Theory, bioethics, medical ethics.
 
 ## Current Role(s)
 | Role                              | Year(s) |
@@ -27,6 +32,21 @@ lastmod: 2022-12-06
 | Mitchell, Jonathan Paul. [“Unsafe Ground: Technology, Habit, and the Enactment of Disability”](https://tidsskrift.dk/KKF/article/view/127873). *Women, Gender & Research* 31, no. 2 (2021): 24–39.                                                                                                                | **2021** |
 | Mitchell, Jonathan Paul. “Disability and the Inhuman”, in [*Perception and the Inhuman Gaze: Perspectives from Philosophy, Phenomenology and the Sciences*](https://www.routledge.com/Perception-and-the-Inhuman-Gaze-Perspectives-from-Philosophy-Phenomenology/Daly-Cummins-Jardine-Moran/p/book/9780367405625), edited by Anya Daly, James Jardine, Fred Cummins, and Dermot Moran, 298-307. London: Routledge, 2020. | **2020** |
 | Mitchell, Jonathan. [“‘Race’, Nation and Belonging in Ireland”](https://arrow.tudublin.ie/ijass/vol11/iss1/1/). *Irish Journal of Applied Social Studies* 11, no. 1 (2011): 4-13.                                                                                                                                 | **2011** |
+
+## Awards
+| Award                                                                                               |          Year(s) |
+| :--------------------------------------------------------------------------------------------------- | -------------:|
+| Nomination for Dr Máire de Paor Award (best PhD research thesis in UCD College of Social Sciences and Law) | **2022** | 
+| Irish Research Council, Government of Ireland Postgraduate Scholarship                              | **2013--2016** |
+| ESB–Universities Ireland, North/South Postgraduate Scholarship                                      | **2011--2012** |
+| Undergraduate Awards, ‘Social Studies' category: Overall Winner                                     |      **2011** |
+| Undergraduate Awards, 'Politics and International Relations' category: Highly Commended (runner-up) |      **2011** |
+| *Queen’s University Belfast, School of Sociology, Social Policy and Social Work*                    |               |
+| McLaughlin Prize (best work on disability)                                                          |      **2011** |
+| *Queen’s University Belfast, School of Politics, International Studies and Philosophy*              |               |
+| David Mulholland Prize (best performance in dissertation)                                           |      **2011** |
+| Foundation Scholarship                                                                              |      **2010** |
+| Foundation Scholarship                                                                              |      **2009** |
 
 ## Forthcoming Activities
 | Activity                                                                                                              |          Year(s) |
@@ -75,20 +95,6 @@ lastmod: 2022-12-06
 | ‘Introduction to Arts’ (Level 1)                                                                     | **2012** |
 | *Facilitating tutorials, meeting students, grading assignments.*                                     |          |
 
-## Awards
-| Award                                                                                               |          Year(s) |
-| :--------------------------------------------------------------------------------------------------- | -------------:|
-| Nomination for Dr Máire de Paor Award (best PhD research thesis in UCD College of Social Sciences and Law) | **2022** | 
-| Irish Research Council, Government of Ireland Postgraduate Scholarship                              | **2013--2016** |
-| ESB–Universities Ireland, North/South Postgraduate Scholarship                                      | **2011--2012** |
-| Undergraduate Awards, ‘Social Studies' category: Overall Winner                                     |      **2011** |
-| Undergraduate Awards, 'Politics and International Relations' category: Highly Commended (runner-up) |      **2011** |
-| *Queen’s University Belfast, School of Sociology, Social Policy and Social Work*                    |               |
-| McLaughlin Prize (best work on disability)                                                          |      **2011** |
-| *Queen’s University Belfast, School of Politics, International Studies and Philosophy*              |               |
-| David Mulholland Prize (best performance in dissertation)                                           |      **2011** |
-| Foundation Scholarship                                                                              |      **2010** |
-| Foundation Scholarship                                                                              |      **2009** |
 
 ## Other Academic Experience
 | Activity                                                                                                                                                    |          Year(s) |
