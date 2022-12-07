@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cv.md",
+                "file": "content/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/cv.md",
+                "file": "content/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/cv.md",
+                "file": "content/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/cv.md"
+                "file": "content/about.md"
               }
             }
           },
@@ -156,9 +156,9 @@
   },
   "active": "0d9fb93f91409972",
   "lastOpenFiles": [
+    "content/cv.md",
     "content/_index.md",
     "2022-12-07.md",
-    "content/cv.md",
     "content/about.md",
     "content/posts/disability-technology-time.md",
     "content/posts/disability-personhood-vulnerability.md",
