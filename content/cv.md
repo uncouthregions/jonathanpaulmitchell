@@ -4,7 +4,7 @@ date: 2022-07-04
 lastmod: 2022-12-07
 author: Jonathan Paul Mitchell
 ---
-You can download a PDF version by tapping [here](https://github.com/uncouthregions/jonathanpaulmitchell/blob/435537969375b4960ca3988fd3281939291d1c31/content/attachments/JPMitchell_CV_2022.pdf).
+You can download a PDF version by tapping [here](https://www.jonathanpaulmitchell.com/content/attachments/JPMitchell_CV_2022.pdf).
 
 **Areas of specialisation**: Continental philosophy, phenomenology, philosophy of disability, disability studies, philosophy of technology, feminist philosophy, actor-network theory, vulnerability, biopolitics, posthumanism.
 
