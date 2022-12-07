@@ -18,12 +18,12 @@ author: Jonathan Paul Mitchell
 ## Education
 | Degree                                                                             |          Year(s) |
 |:---------------------------------------------------------------------------------- | -----------------:|
-| *University College Dublin*                                                        |               |
+| *University College Dublin:*                                                        |               |
 | **PhD in Philosophy (awarded with minor typographical corrections)**               | **2013--2021** |
 | Thesis Title: “Distributing Disability: Embodied Difference, Technology, and the Human”. |               |
 | **MA in Philosophy (First Class)**                                                 | **2011--2012** |
 | Thesis Title: “Rebellious Matter: Towards an Ontology of Embodied Difference”.           |               |
-| *Queen’s University Belfast*                                                       |               |
+| *Queen’s University Belfast:*                                                       |               |
 | **BA (Hons) in Sociology and Politics (First Class)**                              | **2008--2011** |
 | Dissertation Title: “Live Flesh: Materiality, Subjectivity, Agency”.                     |               |
 ## Publications
