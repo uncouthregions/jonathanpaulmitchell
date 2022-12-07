@@ -38,17 +38,17 @@ author: Jonathan Paul Mitchell
 ## Awards
 | Award                                                                                               |          Year(s) |
 | :--------------------------------------------------------------------------------------------------- | -------------:|
-| Nomination for Dr Máire de Paor Award (best PhD thesis in UCD College of Social Sciences and Law) | **2022** | 
-| Irish Research Council, Government of Ireland Postgraduate Scholarship                              | **2013--2016** |
-| ESB–Universities Ireland, North/South Postgraduate Scholarship                                      | **2011--2012** |
-| Undergraduate Awards, ‘Social Studies' category: Overall Winner                                     |      **2011** |
-| Undergraduate Awards, 'Politics and International Relations' category: Highly Commended (runner-up) |      **2011** |
+| Nomination for Dr Máire de Paor Award (best PhD thesis in UCD College of Social Sciences and Law). | **2022** | 
+| Irish Research Council, Government of Ireland Postgraduate Scholarship.                              | **2013--2016** |
+| ESB–Universities Ireland, North/South Postgraduate Scholarship.                                      | **2011--2012** |
+| Undergraduate Awards, ‘Social Studies' category: Overall Winner.                                     |      **2011** |
+| Undergraduate Awards, 'Politics and International Relations' category: Highly Commended (runner-up). |      **2011** |
 | *Queen’s University Belfast, School of Sociology, Social Policy and Social Work:*                    |               |
-| McLaughlin Prize (best work on disability)                                                          |      **2011** |
+| McLaughlin Prize (best work on disability).                                                          |      **2011** |
 | *Queen’s University Belfast, School of Politics, International Studies and Philosophy:*              |               |
-| David Mulholland Prize (best performance in dissertation)                                           |      **2011** |
-| Foundation Scholarship                                                                              |      **2010** |
-| Foundation Scholarship                                                                              |      **2009** |
+| David Mulholland Prize (best performance in dissertation).                                           |      **2011** |
+| Foundation Scholarship.                                                                              |      **2010** |
+| Foundation Scholarship.                                                                              |      **2009** |
 
 ## Forthcoming Activities
 | Activity                                                                                                              |          Year(s) |
