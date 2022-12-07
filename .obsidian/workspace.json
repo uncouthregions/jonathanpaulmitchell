@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cv.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/cv.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/cv.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/cv.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "1c64810fe7b87705",
   "lastOpenFiles": [
+    "content/cv.md",
     "content/_index.md",
     "content/about.md",
     "content/posts/disability-technology-time.md",
@@ -155,7 +156,6 @@
     "content/posts/expression-structure-of-behavior.md",
     "content/post/normative-limits.md",
     "content/post/expression-structure-of-behavior.mda.md",
-    "content/post/expression-structure-of-behavior.md",
-    "content/post/8th-amendment-disability-rights.md"
+    "content/post/expression-structure-of-behavior.md"
   ]
 }
