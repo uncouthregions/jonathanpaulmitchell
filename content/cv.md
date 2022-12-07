@@ -9,8 +9,8 @@ author: Jonathan Paul Mitchell
 
 **Areas of competence**: *philosophy of biology, embodied cognition, Critical Theory, bioethics, medical ethics*.
 
-## Current Role(s)
-| Role                              | Year(s) |
+
+| ##Current Role(s)                              | Year(s) |
 |:------------------------------------------------------------------------------ | ----------------:|
 | Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20) | **2022--** |
 ## Education
