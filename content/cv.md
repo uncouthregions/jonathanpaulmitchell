@@ -13,8 +13,8 @@ author: Jonathan Paul Mitchell
 | Role                             | Year(s) |
 |:------------------------------------------------------------------------------ | ----------------:|
 | Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). | **2022--** |
-| Part-Time (HPAL) Lecturer (University College Dublin). | 2019 |
-| Tutor (University College Dublin). | 2012--2022 |
+| Part-Time (HPAL) Lecturer (University College Dublin). | **2019** |
+| Tutor (University College Dublin). | **2012--2022** |
 ## Education
 | Degree                                                                             |          Year(s) |
 |:---------------------------------------------------------------------------------- | -----------------:|
@@ -38,14 +38,14 @@ author: Jonathan Paul Mitchell
 ## Awards
 | Award                                                                                               |          Year(s) |
 | :--------------------------------------------------------------------------------------------------- | -------------:|
-| Nomination for Dr Máire de Paor Award (best PhD research thesis in UCD College of Social Sciences and Law) | **2022** | 
+| Nomination for Dr Máire de Paor Award (best PhD thesis in UCD College of Social Sciences and Law) | **2022** | 
 | Irish Research Council, Government of Ireland Postgraduate Scholarship                              | **2013--2016** |
 | ESB–Universities Ireland, North/South Postgraduate Scholarship                                      | **2011--2012** |
 | Undergraduate Awards, ‘Social Studies' category: Overall Winner                                     |      **2011** |
 | Undergraduate Awards, 'Politics and International Relations' category: Highly Commended (runner-up) |      **2011** |
-| *Queen’s University Belfast, School of Sociology, Social Policy and Social Work*                    |               |
+| *Queen’s University Belfast, School of Sociology, Social Policy and Social Work:*                    |               |
 | McLaughlin Prize (best work on disability)                                                          |      **2011** |
-| *Queen’s University Belfast, School of Politics, International Studies and Philosophy*              |               |
+| *Queen’s University Belfast, School of Politics, International Studies and Philosophy:*              |               |
 | David Mulholland Prize (best performance in dissertation)                                           |      **2011** |
 | Foundation Scholarship                                                                              |      **2010** |
 | Foundation Scholarship                                                                              |      **2009** |
@@ -53,7 +53,7 @@ author: Jonathan Paul Mitchell
 ## Forthcoming Activities
 | Activity                                                                                                              |          Year(s) |
 | :--------------------------------------------------------------------------------------------------------------------- | -------------:|
-| Invited speaker: Workshop on philosophy of disability, University College Dublin (Date TBA).                            |      **2022** |
+| Invited speaker: Workshop on philosophy of disability, University College Dublin (TBA).                            |      **2022** |
 
 ## Conference & Workshop Presentations
 | Title & Event                                                                                                                |     Year(s) |
@@ -85,7 +85,7 @@ author: Jonathan Paul Mitchell
 | Position                                                                                             |     Year(s) |
 | :---------------------------------------------------------------------------------------------------- | --------:|
 | **Part-Time (HPAL) Lecturer (University College Dublin) January--May 2019**                              |          |
-| Lecture on Phenomenology and Disability as part of Level 2 module ‘Phenomenology and Existentialism’ | **2019** |
+| Phenomenology and Disability lecture as part of Level 2 module ‘Phenomenology and Existentialism’ | **2019** |
 | **Tutor (University College Dublin)**                                                                |          |
 | ‘Philosophy and Literature’ (Level 2)                                                                | **2019** |
 | ‘Phenomenology and Existentialism’ (Level 2)                                                         | **2018** |
@@ -105,8 +105,8 @@ author: Jonathan Paul Mitchell
 | Peer reviewer: *Hypatia*.                                                                                                                                     |      **2016** |
 | Peer reviewer: *Somatechnics*.                                                                                                                                |      **2014** |
 | Conference assistant: *The Future of the Body*, Long Room Hub, Trinity College, Dublin.                                                                       |      **2014** |
-| Alumnus judge: 2013 [*Undergraduate Awards*](https://undergraduateawards.com/).                                                                                                                   |      **2013** |
-| Indexer: Giffney, N. & Shildrick, M. (eds), [*Theory on the Edge: Irish Studies and the Politics of Sexual Difference*](https://link.springer.com/book/10.1057/9781137315472). Basingstoke: Palgrave Macmillan, 2013. |      **2013** |
+| Alumnus judge: [*Undergraduate Awards*](https://undergraduateawards.com/).                                                                                                                   |      **2013** |
+| Indexer: Giffney, N. & Shildrick, M. (eds), [*Theory on the Edge: Irish Studies and the Politics of Sexual Difference*](https://link.springer.com/book/10.1057/9781137315472). |      **2013** |
 | *Queen’s University Belfast:*                    |               |
 | Student Union Councillor.                        | **2010--2011** |
 | Community, Equality, Diversity Committee Member. | **2009--2011** |
