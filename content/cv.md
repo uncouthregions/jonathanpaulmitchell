@@ -128,4 +128,4 @@ author: Jonathan Paul Mitchell
 
 ## Download
 
-You can view and download a PDF version of this curriculum vitae by tapping [here](/https://www.jonathanpaulmitchell.com/attachments/JPMitchell_CV_2022.pdf).
+You can view and download a PDF version of this curriculum vitae by tapping [here](/attachments/JPMitchell_CV_2022.pdf).
