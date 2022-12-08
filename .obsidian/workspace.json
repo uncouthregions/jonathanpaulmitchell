@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/cv.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/cv.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/cv.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/cv.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "0d9fb93f91409972",
   "lastOpenFiles": [
-    "attachments/JPM_CV_2022.pdf.md",
     "content/cv.md",
+    "attachments/JPM_CV_2022.pdf.md",
     "content/about.md",
     "content/_index.md",
     "2022-12-07.md",
