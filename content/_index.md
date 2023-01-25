@@ -14,4 +14,4 @@ I'm also developing an ethical approach that avoids shortcomings of humanist app
 
 You can read more about me and my research [here](/about). As it stands, this website is mostly somewhere to share conference and workshop papers. You can read these by tapping ['Updates'](/posts/). Some drafts contain ideas that I was developing at the time, but do not wholeheartedly subscribe to any longer. More recent works are most indicative of my current positions.
 
-You can find me on <a rel="me" href="https://zirk.us/@jpmitchell">Mastodon</a>, [Twitter](http://twitter.com/UncouthRegions/), and the other places linked below.
+You can find me on [Twitter](http://twitter.com/UncouthRegions/), and at the other places linked below.
