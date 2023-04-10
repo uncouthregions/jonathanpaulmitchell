@@ -13,7 +13,7 @@ author: Jonathan Paul Mitchell
 | Role                             | Year(s) |
 |:------------------------------------------------------------------------------ | ----------------:|
 | Editorial Assistant: [International Journal of Philosophical Studies](https://www.tandfonline.com/journals/riph20). | **2022--** |
-| Part-Time (HPAL) Lecturer (University College Dublin). | **2019** |
+| Part-Time (HPAL) Lecturer (University College Dublin). | **2019**, **2023** |
 | Tutor (University College Dublin). | **2012--2022** |
 ## Education
 | Degree                                                                             |          Year(s) |
@@ -53,7 +53,9 @@ author: Jonathan Paul Mitchell
 ## Forthcoming Activities
 | Activity                                                                                                              |          Year(s) |
 | :--------------------------------------------------------------------------------------------------------------------- | -------------:|
-| Invited speaker: Workshop on philosophy of disability, University College Dublin (TBA).                            |      **2022** |
+| Invited respondent: 'Vulnerability and the Gift of Death' workshop, University of Stockholm (TBA).                            |      **2024** |
+
+| Invited speaker: Workshop on philosophy of disability, University College Dublin (TBA).                            |      **2023** |
 
 ## Conference & Workshop Presentations
 | Title & Event                                                                                                                |     Year(s) |
@@ -84,8 +86,9 @@ author: Jonathan Paul Mitchell
 ## Teaching Experience
 | Position                                                                                             |     Year(s) |
 | :---------------------------------------------------------------------------------------------------- | --------:|
-| **Part-Time (HPAL) Lecturer (University College Dublin) January--May 2019**                              |          |
-| Phenomenology and Disability lecture as part of Level 2 module ‘Phenomenology and Existentialism’ | **2019** |
+| **Part-Time (HPAL) Lecturer (University College Dublin) 2019, 2023**                              |          |
+| Guest Lecture 'What Can a Body Do?' on Philosophy of Disability (Level 2 Module 'Mind, Body & World) | **2023** |
+| Guest Lecture on Phenomenology and Disability (Level 2 module ‘Phenomenology and Existentialism’) | **2019** |
 | **Tutor (University College Dublin)**                                                                |          |
 | ‘Philosophy and Literature’ (Level 2)                                                                | **2019** |
 | ‘Phenomenology and Existentialism’ (Level 2)                                                         | **2018** |
