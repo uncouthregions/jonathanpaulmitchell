@@ -86,7 +86,7 @@ author: Jonathan Paul Mitchell
 | Position                                                                                             |     Year(s) |
 | :---------------------------------------------------------------------------------------------------- | --------:|
 | **Part-Time (HPAL) Lecturer (University College Dublin) 2019, 2023**                              |          |
-| Guest Lecture 'What Can a Body Do?' on Philosophy of Disability (Level 2 Module 'Mind, Body & World) | **2023** |
+| Guest Lecture 'What Can a Body Do?' on Philosophy of Disability (Level 2 Module 'Mind, Body & World') | **2023** |
 | Guest Lecture on Phenomenology and Disability (Level 2 module ‘Phenomenology and Existentialism’) | **2019** |
 | **Tutor (University College Dublin)**                                                                |          |
 | ‘Philosophy and Literature’ (Level 2)                                                                | **2019** |
