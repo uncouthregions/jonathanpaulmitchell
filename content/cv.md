@@ -52,9 +52,8 @@ author: Jonathan Paul Mitchell
 
 ## Forthcoming Activities
 | Activity                                                                                                              |          Year(s) |
-| :--------------------------------------------------------------------------------------------------------------------- | -------------:|
+|:--------------------------------------------------------------------------------------------------------------------- | -------------:|
 | Invited respondent: 'Vulnerability and the Gift of Death' workshop, University of Stockholm (TBA).                            |      **2024** |
-
 | Invited speaker: Workshop on philosophy of disability, University College Dublin (TBA).                            |      **2023** |
 
 ## Conference & Workshop Presentations
