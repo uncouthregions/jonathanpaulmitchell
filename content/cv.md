@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae
 date: 2022-07-04
-lastmod: 2022-12-08
+lastmod: 2023-04-10
 author: Jonathan Paul Mitchell
 ---
 
