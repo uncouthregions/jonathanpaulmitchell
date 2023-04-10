@@ -53,8 +53,8 @@ author: Jonathan Paul Mitchell
 ## Forthcoming Activities
 | Activity                                                                                                              |          Year(s) |
 |:--------------------------------------------------------------------------------------------------------------------- | -------------:|
-| Speaker: 'Disability, Vulnerability and Responses to COVID-19' at *The Ethics and Politics of Vulnerable Populations* workshop (10 May 2023). | **2023** |
-| Invited respondent: *Vulnerability and the Gift of Death* workshop, University of Stockholm (16-17 April 2024).                            |      **2024** |
+| Speaker: 'Disability, Vulnerability and Responses to COVID-19' at *The Ethics and Politics of Vulnerable Populations* workshop (University College Dublin, 10 May 2023). | **2023** |
+| Invited respondent: *Vulnerability and the Gift of Death* workshop (University of Stockholm, 16-17 April 2024).                            |      **2024** |
 
 ## Conference & Workshop Presentations
 | Title & Event                                                                                                                |     Year(s) |
