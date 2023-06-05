@@ -1,3 +1,3 @@
-module github.com/uncouthregions/jonathanpaulmitchell
+module github.com/jpanther/congo/v2
 
-go 1.20
+go 1.16
