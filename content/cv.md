@@ -59,13 +59,13 @@ author: Jonathan Paul Mitchell
 | Title & Event                                                                                                                |     Year(s) |
 | :---------------------------------------------------------------------------------------------------------------------------- | --------:|
 | **Disability, Vulnerability and Responses to COVID-19** | **2023** |
-*The Ethics and Politics of Vulnerable Populations workshop, University College Dublin, 10 May 2023*. |
+*'The Ethics and Politics of Vulnerable Populations', University College Dublin, 10 May 2023*. |
 | **Disability, Vulnerability, and Debility** | **2022** |
-| *Fits and Misfits: Rethinking Disability, Debility, and the World with Merleau-Ponty (46th Annual Conference of the International Merleau-Ponty Circle), Georgetown University, Washington, 10 November 2022.*                            |            |
+| *'Fits and Misfits: Rethinking Disability, Debility, and the World with Merleau-Ponty' (46th Annual Conference of the International Merleau-Ponty Circle), Georgetown University, Washington, 10 November 2022.*                            |            |
 | **Disability, Personhood, and Vulnerability** \[[read](/posts/disability-personhood-vulnerability/)\]                                                                                | **2021** |
 | *Invited Speaker Seminar Series, Nordic Network Gender Body Health, 16 December 2021*.                                       |          |
 | **Disability, Technological Milieus, and Anticipation**                                                                      | **2021** |
-| *‘Phenomenology Symposium’, School of Philosophy, University College Dublin, 26 April 2021*.                                 |          |
+| *Phenomenology Symposium, School of Philosophy, University College Dublin, 26 April 2021*.                                 |          |
 | **Inter-mundane Technology as an Unsafe Ground for Habit and Possibility**                                                   | **2018** |
 | *‘Habit and Social Experience’, School of Philosophy, University College Dublin, 7-8 December 2018*.                         |          |
 | **Some Implications of Enactivism for a Conception of Disability**                                                           | **2018** |
