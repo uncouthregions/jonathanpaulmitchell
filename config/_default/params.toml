@@ -16,7 +16,6 @@ enableImageLazyLoading = true
 # robots = ""
 fingerprintAlgorithm = "sha256"
 
-
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
