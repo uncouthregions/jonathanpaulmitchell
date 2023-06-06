@@ -5,7 +5,7 @@
   publish = "public"
 
 [build.environment]
-  NODE_ENV = "production"
+  NODE_ENV = "staging"
   GO_VERSION = "1.16"
   TZ = "GMT"  # Set to preferred timezone
 
