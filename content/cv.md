@@ -5,9 +5,9 @@ lastmod: 2023-04-10
 author: Jonathan Paul Mitchell
 ---
 
-**Areas of specialisation**: Continental philosophy, phenomenology, philosophy of disability, disability studies, philosophy of technology, feminist philosophy, actor-network theory, vulnerability, biopolitics, posthumanism.
+**Areas of specialisation**: Continental philosophy, phenomenology, philosophy of disability, disability studies, feminist philosophy, vulnerability, biopolitics, posthumanism.
 
-**Areas of competence**: philosophy of biology, embodied cognition, Critical Theory, bioethics, medical ethics.
+**Areas of competence**: actor-network theory, philosophy of technology, philosophy of biology, embodied cognition, Critical Theory, bioethics, medical ethics.
 
 ## Current & Recent Employment
 | Role                             | Year(s) |
