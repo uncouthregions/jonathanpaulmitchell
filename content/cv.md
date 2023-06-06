@@ -53,12 +53,13 @@ author: Jonathan Paul Mitchell
 ## Forthcoming Activities
 | Activity                                                                                                              |          Year(s) |
 |:--------------------------------------------------------------------------------------------------------------------- | -------------:|
-| Speaker: 'Disability, Vulnerability and Responses to COVID-19' at *The Ethics and Politics of Vulnerable Populations* workshop (University College Dublin, 10 May 2023). | **2023** |
 | Invited respondent: *Vulnerability and the Gift of Death* workshop (University of Stockholm, 16-17 April 2024).                            |      **2024** |
 
 ## Conference & Workshop Presentations
 | Title & Event                                                                                                                |     Year(s) |
 | :---------------------------------------------------------------------------------------------------------------------------- | --------:|
+| **Disability, Vulnerability and Responses to COVID-19** | **2023** |
+*The Ethics and Politics of Vulnerable Populations* workshop (University College Dublin, 10 May 2023). |
 | **Disability, Vulnerability, and Debility** | **2022** |
 | *Fits and Misfits: Rethinking Disability, Debility, and the World with Merleau-Ponty (46th Annual Conference of the International Merleau-Ponty Circle), Georgetown University, Washington, 10 November 2022.*                            |            |
 | **Disability, Personhood, and Vulnerability** \[[read](/posts/disability-personhood-vulnerability/)\]                                                                                | **2021** |
